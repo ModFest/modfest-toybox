@@ -1,0 +1,13 @@
+name = "Mica"
+filename = "mica-0.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/venPrYVA/versions/EHgLss6x/mica-0.0.4.jar"
+hash-format = "sha512"
+hash = "6d97672e4147c7ee677a0083acdd892cb800011ad93a1de086071a763619a20e53b9fc1442b0d15989ba719377b4657aacc363ba210fc8c4da8008b41b9a5e55"
+
+[update]
+[update.modrinth]
+mod-id = "venPrYVA"
+version = "EHgLss6x"

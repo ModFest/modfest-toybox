@@ -160,6 +160,10 @@ hash = "b77295058408fec118106d8464ab95845a0f87779a95da7a35be557e9981f49c"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/crunchy-crunchy-advancements.pw.toml"
 hash = "d6d210a5fee1b4595fdcb120a76b980549e4d1efc1c8228c2fb30f9273749298"
 metafile = true
@@ -222,6 +226,10 @@ metafile = true
 [[files]]
 file = "mods/meret.pw.toml"
 hash = "81e61c2ffcd2d75ae39ac7a08299b8a7b5c0e9cb58e315d9eb96d9827fd58d37"
+metafile = true
+
+[[files]]
+file = "mods/mica-runes.pw.toml"
 metafile = true
 
 [[files]]
