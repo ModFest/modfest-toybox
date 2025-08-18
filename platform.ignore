@@ -23,3 +23,6 @@ dronebox
 
 # extra classes config has illegal char, but should just drop this and add classes normally
 mica-runes
+
+# breaks data-driven items (More Than A Fox Box & Losing My Marbles)
+not-a-toy
