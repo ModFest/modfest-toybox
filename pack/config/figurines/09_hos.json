@@ -1,0 +1,16 @@
+{
+  "name": "head of security",
+  "description": "A figurine depicting the glorious head of the Security department.",
+  "category": "Security",
+  "number": "01",
+  "identifier": "hos",
+  "rarity": "Epic",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABtElEQVRYhe2UTUsbURSGH0UClziSYEnnmtAsYguZxUToxoUSY/euuu2mbszOn+IfsL9B3HUjDbroogu76YCaQkqT2KAkZDoMlMJxoU4LingvunIeuHDu13sO75y5kJKSkvLUmbC4Iw+pN2lRAI2ah3w/TEaj5tnI2NGoeaK1FuG1vHu7lsSNmneXMw/H8e62AJeJO1+S+GrdGJse4Hh3W+bKrwjP+zizml7niJdr61Zaxmitxfd9KbquRF/3pei64vu+aK2tHDBqwmAH6e2VAMgoxcf2MhmlAOjtlQh27vxDbsXItuWlJTlpt8nn88RxzJ84JqMUSimGwyHzlQr7BwdGmkYOlMtlFnz/1r03q6tMZ7MmcoBFE9brden+7AGw+Ff4PHUpUSzN0Wq1jPWMLxRdV2YLBQDOBwP+j7unp49fwHURAO9zz/gwOgOwSg6WT/E4ithoNtnqdthoNhlHkY0MYOGA4zhSrVbp9/uMRiNyuRxaa4IgIAzDx/sEmyv/3vrK8zwvCjPJ3o/BmPavYTLf+vTt3rr3Ori54sl10pnpLI6jbpwJw5jx7ygpxqSIlJSnzQWiGKOnaw+yZAAAAA5lWElmTU0AKgAAAAgAAAAAAAAA0lOTAAAAAElFTkSuQmCC",
+  "voicelines": [
+    "Space law? What?",
+    "Shoot the clown.",
+    "Yes, I shot the clown. No, I don't regret it.",
+    "Clown is now KOS.",
+    "Armory is now open to the public!"
+  ]
+}

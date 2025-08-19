@@ -1,0 +1,17 @@
+{
+  "name": "salvage specialist",
+  "description": "A figurine depicting a Salvage Specialist holding a survival knife.",
+  "category": "Cargo",
+  "number": "03",
+  "identifier": "salvage",
+  "rarity": "Uncommon",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABmUExURTIrKDw8PCRSO1pORI+3j3KZcyIcGm+Va1ELfK0q6oUbxj08PCQgHoxmDtazKD8/P35+ft/f31xbW0lHR0Q2LLeLGzYvH2Y/J4RQLWZRNTYuHWZLMnBAKpNXO7FtSb95VMyGXQAAAGqRGc8AAAAidFJOU////////////////////////////////////////////wAN0MNxAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAs0lEQVQ4T+2P6w6CMAxG68DhdGMqUC/c3Pu/pAWa2BIT408Tz0LWrz1bBqQP/IWFbwWA9QmdNyYz6yO8z4DJt/nKUMmaAgpjOS1IwYKFjD5l6BtoTganBSnsnKW/sG7PeUYKB+dDGbyLxxN3CCmcq7oJiJWc6zdEvFzxFuVcCwnLEpFrRguhocU1owV/p8U1owTf1r5utSGEruv6YRh62rkz8RJoOj4mRnK4R+g3vOEHhJSeYf17F+38H/sAAAAASUVORK5CYII=",
+  "voicelines": [
+    "Megafauna? It was mega easy.",
+    "We're lost. Anyone bring a GPS?",
+    "Anyone have oxygen?",
+    "I found a blood-red and e-sword!",
+    "There's bears in space?",
+    "Crusher? I barely know her!"
+  ]
+}

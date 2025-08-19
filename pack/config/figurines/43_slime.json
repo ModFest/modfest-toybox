@@ -1,0 +1,15 @@
+{
+  "name": "slime",
+  "description": "A figurine depicting a translucent blue slime.",
+  "category": "Animals",
+  "number": "03",
+  "identifier": "slime",
+  "rarity": "Uncommon",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEBSURBVFhH7dO/DsFQFAbwo41BaBMLEWGxeQqPIjFYJDyEVUJYUIsn8AiewiaRmkgT0RKDtvTGuUqjce8glvNb7p82/b42t0AIIYSQf0vgKKfV2OIsNJqVcCZFrsAjWG0Oxo/1i3G7yQZPtoh4gSA8CFbrnm/Ok8ki7r6Zbjaq2+tKlRArEBO+wJGzTBNuvi9VQsHxK0VRPR7OgqPhnOtYHk6FCBfg4oLZ21+Pe4DgC+CWEKkzUBgauAixYOYZbkx+cAa4T79f1K/+gk6tesMpVPJZKOd0XAGYexvWuwOuAPrLlfBzhW5k4TxUz6RB01J4JeQ4F7BP52cZmRKEkD8CuAOowGRFkbPVlQAAAABJRU5ErkJggg==",
+  "voicelines": [
+    "Blyump.",
+    "Blimpuf?",
+    "Blump!",
+    "Squish!"
+  ]
+}

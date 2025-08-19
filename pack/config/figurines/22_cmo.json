@@ -1,0 +1,16 @@
+{
+  "name": "chief medical officer",
+  "description": "A figurine depicting the glorious head of the Medical department.",
+  "category": "Medical",
+  "number": "01",
+  "identifier": "cmo",
+  "rarity": "Epic",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABj0lEQVRYhe2Tv0tCURTHP4kGkUoSFRkoUkqEQeAQtOQUtATVUq0Nrv4l0djSGg3m0GDQFARBg/2gbPBZUWFRIEYqQQanoXxoNXhv1NL7LO+dc8/5ni+He8HCwsLiv9Oi0zTjQT7nkkU9LeWm2vCN9JGZm42M/MiEsgG5OBJo/H63lWZQdmxsrspAOPIlnztNE5xaVNbTWpmxuSpef4hS4Q5XZy+3V1mt4VoEFuIiIhJYiEvleFfq4z8ZHksdiIhILHUgXePTDbGOCZtK8fbcMACZTAYAZ5+/Ia6d/5qBgXCEpb4KAGkjRzl/RdrIAbAyaMPrDykb0HoFp68egqEQDoeDarWKkc0Sthe1LqJdtWFi/YTO0TG4OaOwv/f+DxT2T1SlAM1nWLtskx0vbD22AnC5tqylpbwBAF/+EIBMHnwfuUsdIR2SiYSIiCQTCZkfbpH6WEev6bXFo0PmgP4eD75ut3l2/fDE+X3RjJd3zprWbaowHh2S2lC3sx2Xq+1LTan0zFO5YppRMWFh8b95A30EuoMzdIJbAAAADmVYSWZNTQAqAAAACAAAAAAAAADSU5MAAAAASUVORK5CYII=",
+  "voicelines": [
+    "Suit sensors!",
+    "Why do we have meth?",
+    "Who drank all the chems?",
+    "Desoxyephedrine? Sounds healthy.",
+    "No, you're not getting my hypospray."
+  ]
+}

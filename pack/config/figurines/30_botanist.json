@@ -1,0 +1,16 @@
+{
+  "name": "botanist",
+  "description": "A figurine depicting a Botanist that surely won't let kudzu get out of control.",
+  "category": "Service",
+  "number": "10",
+  "identifier": "botanist",
+  "rarity": "Uncommon",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAByElEQVRYhe2UX0hTcRTHP83Iwl3zVlskMZGcD6Hi8HEgCiIEGQyfx4jYoxCEBnu47+ZL0KOMHnode5CeRFDw+uaf3Ro+aCUbUpi21Jsre+j4sJjmetj9kYPwfuDHj3M4v/P9cQ7ngIuLi8t554LKo7F+5LTv2axaLo+q+Hgyw8n7b586E8b6EfmQEfjzVv2A47KtTyWlraOnwv8uu0TwwSPH+ZT6tj6VlOaWduwvn9Cu3+Jjbk1JXInBhF9yxYgMJvxyYM3LSftMhb33ln31Q5YwXJBcMSL0miXRXrNkDxekfsgSb8TyO8lb9RSsjGTIxhcJ6XrJcRhm2kzDYRiAkK6TjS+SiVpO9LlYbWBbsBvqPJgtJjuAPDlueZ4IywmLot3OL4eTrTQFlwZeA7D9Ko8vGgDg58z92k0BXS+EptCxvbsCb0ZqswkBYqMTJdHfJzY6oZIGUKxAOH6tYuQWJgu12QOGYYiISDqVEk3TJJ1KiYiIYRj/fhW/3Ni4/LC19QfA4767ZYE7N3UC/sZyXP7zPu+3vpbt53OrVVejqsCnA50SuHGV2z6NRm8DmnalIsa2v7P/7YDNbZv8zh7jM29r0xIXl/+eIzOxua7OLPzNAAAADmVYSWZNTQAqAAAACAAAAAAAAADSU5MAAAAASUVORK5CYII=",
+  "voicelines": [
+    "I don't have any weed, officer!",
+    "Dude, I see colors...",
+    "Is it just me, or is that weed glowing?",
+    "50 more units of mutagen. That should be enough.",
+    "More bananas for my favorite clown!"
+  ]
+}

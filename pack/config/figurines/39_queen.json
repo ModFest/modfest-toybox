@@ -1,0 +1,17 @@
+{
+  "name": "xeno queen",
+  "description": "A large figurine depicting a xeno queen, ready to attack.",
+  "category": "Antagonists",
+  "number": "04",
+  "identifier": "queen",
+  "rarity": "Epic",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABFUExURRcRC1NGNEM3KDUrHycfFhM+ECssPDg4Sx5ZHAUGBS5nLExMTBwdKBpQGIeFeRUXHVJRZnBAKpNXO7FtSb95VMyGXQAAALq5+rUAAAAXdFJOU/////////////////////////////8A5kDmXgAAAAlwSFlzAAAOwwAADsMBx2+oZAAAAQpJREFUOE/VkIF6gyAMhCPRUFrqmG15/0fdnQMXW15g5weF3G8uVupZ73dXEMFZJm6eckAIgg1LQytRDoYhokLGyQOzyhQm0XkcUWeBryBkbhXKdwgMwDpleEAXCVOQRYeA1SiXRVWXi0Tcug4gkbii/ZV+alUfkcxSuOkt8NBq0B+QU7b7KuvdcGo1yHVIMa+WbM0xDTvsGV94TgmniJh3AB2GERUzsIVhBt5aG9/BYsF8BSNk+r+EHzIVWPgxun0QH4FXSy0MgtkJB7CGV7ETGQEYEwCXQZ8RqO8ALDRo/tsM/H78H92kDuAb2rYHtG08t/IBwIT7fEFPMlsnDuBDzfBDDvUPgFp/AIwNRwSbOcMGAAAAAElFTkSuQmCC",
+  "voicelines": [
+    "Our domain must grow.",
+    "The hive hungers.",
+    "We consume all.",
+    "We are the apex.",
+    "You're just biomass.",
+    "We must evolve."
+  ]
+}

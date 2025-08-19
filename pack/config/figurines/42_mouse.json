@@ -1,0 +1,18 @@
+{
+  "name": "mouse",
+  "description": "A figurine depicting a mouse scuttling away to the nearest piece of food.",
+  "category": "Animals",
+  "number": "02",
+  "identifier": "mouse",
+  "rarity": "Common",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABZklEQVRYhe2SPUtCURjHf1dC6EWxG5QYKRFyS12bGnLrA7jUoJ/B2cnJuSX6AM2twd10KIo7CdoNbnLVSEzIQIsgsNvkxRDi3GqJzm85nPM8/P/PywGJRCKRSCR/iUIm5RQyKcdr7CtmvJjn9gs4yh1wMmWUPciiOGtAySmd1pRfL8D/WKNqnxN+77C3HZ+K924v6fraonIuPtHEYhnFPDtCNywAcscXn07dsKheVZjsXmQlwqOaFI2pSTY33ty3m4afVr8+ZS6yCuEJjEU1dUSrXwcgENoBoNWvo6kjoY5/VABAOBJFU0fohsXcUgTdsNDUEeFIFIBiGke0e/jmCnZTq3Q7bWzLZD2+RTgSpVK7x8vvH+N5AjE1SbMTwrZMimUU2zJpdkLE1KRXKcDDBPLphLvfjZVFostBN9buDWg8PLn3w/K1sK5QYj6dcMamwYV5AoHZqZzh8JXB84tbjJciJJL/zQe334sHNzbZsgAAAA5lWElmTU0AKgAAAAgAAAAAAAAA0lOTAAAAAElFTkSuQmCC",
+  "voicelines": [
+    "Piep!",
+    "Squeak!",
+    "Chuu!",
+    "Eeee!",
+    "Pip!",
+    "Fwiep!",
+    "Heep!"
+  ]
+}

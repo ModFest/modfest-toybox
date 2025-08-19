@@ -1,0 +1,25 @@
+{
+  "name": "librarian",
+  "description": "A figurine depicting the one-and-only librarian.",
+  "category": "Service",
+  "number": "06",
+  "identifier": "librarian",
+  "rarity": "Rare",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABOUExURQAAAL9rM39HIhF5BKhcLYdKJABfFDEYAPPz879QTReCItzRAEBAQFhYWGVlZVs0D35+fv///66srA0NDXBAKpNXO7FtSb95VMyGXQAAANtbcA8AAAAadFJOU/////////////////////////////////8AFCIA2gAAAAlwSFlzAAAOwwAADsMBx2+oZAAAAKhJREFUOE/tj+sOgyAMRrmtOESnDnG8/4uuYBOpmez3kh1C4GsPBET6wl/Y4YLI0J5gsfRPxkmQUjYE7Oeh+CFaM+WC8xVc0OZmdEMA2907B5cCOG17px1QLtSCcuAsTkW5UAvSgO4tSEO5wN6gPAxgW9/04zD6x6WQhB9wsBIXks/QnmDCNC/PZZ4o7VRCCGGNMa64UiVzCNjdXpkNHaoh/A0f+AEhpTe3vFqHXtoomAAAAABJRU5ErkJggg==",
+  "voicelines": [
+    "Silence!",
+    "One day while...",
+    "Once upon a time...",
+    "In a world where...",
+    "It was a dark and stormy night...",
+    "Long, long ago...",
+    "As the story goes...",
+    "Imagine, if you will...",
+    "Long before time had a name...",
+    "In a galaxy far, far away...",
+    "As the old saying goes...",
+    "Gather round...",
+    "...It's a tale as old as time...",
+    "...That's all she wrote."
+  ]
+}

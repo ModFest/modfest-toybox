@@ -1,0 +1,19 @@
+{
+  "name": "hamlet",
+  "description": "A figurine depicting Hamlet, microwave not included.",
+  "category": "Animals",
+  "number": "04",
+  "identifier": "hamlet",
+  "rarity": "Epic",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABVUlEQVRYhe2UsUtCURSHv+I1RGm4pDSEIS5O/gepo1O0RohTBQ1CU4tpS44NQTVFiENLNLk9LXBzcQpERGmQ91pELYISbsPLZxKEV2qI7rfdcw7nd87h3AMKhUKhUCj+EsmwJpJhTcj6vkOTEU+fvdGsNQG/qLeHPp8L4ns1vH4vbM+Iw2J/aty8YwcCbAStDnOVPhdrQ3v8BjaCVi+5yvjiIDEBsDpNnV/ymi8Qi0Zsez5UIBuNkNqKyaQDYFomeGWhD8DVh3jx2jPyHvh/rYBGR8M0WpZ4qUx43aBYKgNgGi0aHamBAhPsgM8FO+kj3J4l224aLU4P9qm35XdAKvhzEaubu7btLnsykfhEiKoQekYf+e96RheiKqRvAEhMIBEK2AI+t4vlRafte3jsUjeHh+H49v5n70AiFBADUef8HA7H7JeYXu+F7tOzXYxMEQrF/+YdHdB6/8khb4UAAAAOZVhJZk1NACoAAAAIAAAAAAAAANJTkwAAAABJRU5ErkJggg==",
+  "voicelines": [
+    "Piep!",
+    "Squeak!",
+    "Chuu!",
+    "Eeee!",
+    "Pip!",
+    "Fwiep!",
+    "Heep!",
+    "NOT THE MICROWAVE!"
+  ]
+}

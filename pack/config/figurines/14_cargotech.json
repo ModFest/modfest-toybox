@@ -1,0 +1,17 @@
+{
+  "name": "cargo technican",
+  "description": "A figurine depicting a reptillian Cargo Technican.",
+  "category": "Cargo",
+  "number": "02",
+  "identifier": "cargotech",
+  "rarity": "Common",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABIUExURYxmDreLG9azKACmAACGAAC0AC5apQCXAGpqarOzs5eXlyoqKklJSdnZ2X5+fv///66srFktAXBAKpNXO7FtSb95VMyGXQAAAIeq02kAAAAYdFJOU///////////////////////////////AM0TLuoAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAC1SURBVDhP7Y7dDoMwCEaBwtqqU+fPfP83HVWSFeOy6yU7vaDQI36wfeEvHHgBCnY3XAtIRHj6xqoSeF8AwMEmhUrgwHLTo9UmhXofsxS4fj+FlBii2N1wQiIUpGTdQS2kjNQQZme4DBlUgPwxg0TABkGi9TsuA7fdvWvdAi9oiuwTnDekRo81hgsZWaL4P9QCx34YH+PQW39QCdM0zcuyzFptUngL+ro+C6s6NlNcyCt+QNi2F5A3U6Evmu0qAAAAAElFTkSuQmCC",
+  "voicelines": [
+    "DRAGON ON ATS!",
+    "I sold the station!",
+    "Brain bounty? I don't have a brain.",
+    "You're worth 3000 spesos. Congrats.",
+    "Vegetable bounty? Nobody eats those anyways.",
+    "WE ARE SECEDING!! ALL HAIL CARGONIA!!"
+  ]
+}

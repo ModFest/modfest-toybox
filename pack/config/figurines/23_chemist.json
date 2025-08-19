@@ -1,0 +1,17 @@
+{
+  "name": "chemist",
+  "description": "A figurine depicting a Chemist probably planning to make meth.",
+  "category": "Medical",
+  "number": "02",
+  "identifier": "chemist",
+  "rarity": "Uncommon",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABcElEQVRYhe2UP0tCURjGn6Kl/ANBf3BpyIabBImbgeHc6CdIBzdBbOlLJIE0OOgHCBHu/QARCbbqYCb+GZoqgsCbt/FpUE9CDt5XbPH+lnPu+573eZ9z7r0HcHBwcFh2VqSF7NWoRPaDYh1R4WTzeU2s2i2Ia+CoISbHcXzhBiaMIHEWRFyTKsxBXAMH9Qpf7245qFco3T0g+AaqMTC8BSQefmPFU+DxAzgp29ez9QqqMTAcGjVtEkfJHIrN4ebDoWF+oQa2zwuA2zc96fYN8zaxdWTs1WiZJjZuIshqORXPPKeAyxos04TrOCK+E2aibRTIJMgk2Gq11LxtFP7nNzQ6FpAnkCd0XVdzo2NJ+stuwqtsjgDQ7TThPzgEAFxkUiKtNUmRoZfUvNFoSCTklEslkuS0UaI387GlowHVwL+7ib0dr8q9vPfRfftUz9f3TzPrzrQwHQ1w3NTrdsHjWf+zxjS/0f8aKDN2TDg4LDc/zrCdJRqKl2wAAAAOZVhJZk1NACoAAAAIAAAAAAAAANJTkwAAAABJRU5ErkJggg==",
+  "voicelines": [
+    "Get your pills!",
+    "We need to cook.",
+    "I am the one who knocks!",
+    "Say my name.",
+    "99.8% purity.",
+    "Epinephrine? Didn't you say methamphetamine?"
+  ]
+}

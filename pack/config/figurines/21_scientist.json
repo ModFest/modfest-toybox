@@ -1,0 +1,17 @@
+{
+  "name": "scientist",
+  "description": "A figurine depicting a Scientist donning a labcoat.",
+  "category": "Science",
+  "number": "02",
+  "identifier": "scientist",
+  "rarity": "Common",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABFUExURQAAAKNNGGAsDoQ/E2sxEFIAiWMAkcTExI2Ok////5kAmWtrayoqKlVVVX5+fq6srOro6HBAKpNXO7FtSb95VMyGXQAAAJq5VC8AAAAXdFJOU/////////////////////////////8A5kDmXgAAAAlwSFlzAAAOwwAADsMBx2+oZAAAAKxJREFUOE/dj+sOgyAMRi1MysXpvIz3f9QVaDK+ZXP/PcTI157UOuQ/XFIYSgFqKAwVDQ20FY2VPkiLiE4nUD0/J2QjA4iMpgbOM/ZmsY/C6NiyGzU1esGHGFger7nSC4ZjSCEyfKQXyDpO7MhqrsAOZoopTid/4VkmMKyAQvY+eex/CPeC3hUQ5rA8ljBranTCuq7bvu+bvLVSeAvSPZ6FQxytCbjDF64g5PwCiWxQevU+y5AAAAAASUVORK5CYII=",
+  "voicelines": [
+    "Someone else must have made those bombs!",
+    "He asked to be borged!",
+    "Carp at sci!",
+    "Explosion at sci!",
+    "Anyone seen an anomaly?",
+    "The anomaly exploded!"
+  ]
+}

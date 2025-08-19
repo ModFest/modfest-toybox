@@ -1,0 +1,15 @@
+{
+  "name": "fake wizard",
+  "description": "A figurine depicting someone in a fake-ass wizard costume. What a ripoff!",
+  "category": "Antagonists",
+  "number": "02",
+  "identifier": "wizard_fake",
+  "rarity": "Common",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABIUExURQMubwtClf/e0AAAAPPw8NXT0+i+qv///6KiogdRwAxHnUQ2LF+O1ilWmvXRw9uynYymzmAwAHBAKpNXO7FtSb95VMyGXQAAANIbOz4AAAAYdFJOU///////////////////////////////AM0TLuoAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACnSURBVDhP5ZDbEoMgDAUPFCuolHor//+nTTRTiePQ93ajgycsqCB/4T8F4LxCZxhjzktk3ICx1p4MLdgbVVVwztWE3Li7a/ih3SKjd4B3nv+jbT9GKSB08OgCcn+9wxDRUcWhlwZTCvaBSGXLef0NCXgCSdKOEhBMjNWDIgFVYRz5krSjUkpppFvSTiFM0zQvyzLTKB3mEGh2fTErOdIj9Asv+AUh5zcpNVQgS8nPZQAAAABJRU5ErkJggg==",
+  "voicelines": [
+    "Ei Nath!!",
+    "Real wizards support trans rights.",
+    "Skidaddle skadoodle!",
+    "FIREBALL!"
+  ]
+}

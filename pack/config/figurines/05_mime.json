@@ -1,0 +1,20 @@
+{
+  "name": "mime",
+  "description": "A figurine depicting that silent bastard you are all too familiar with.",
+  "category": "Service",
+  "number": "03",
+  "identifier": "mime",
+  "rarity": "Uncommon",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABLUExURWYAAI8AAIAAADsAACsAAEoAAAAAAP///8DAwICAgDOZAGhoaElJSbW0tMjIyDw8PH5+fq6srA0NDXBAKpNXO7FtSb95VMyGXQAAAO+K1TgAAAAZdFJOU////////////////////////////////wABNAq3AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAApElEQVQ4T92O2xKCMAxEAetGpNwsYP//S01hZ2zQwfGV04dmk9NMi/iDUwrFxwPbKMpyr5hYVhfnHAMxQnWF4FYzbRihlrueQ0EgR0IydnMrNB6Ab5g2cqGB1w0exsiFVoe6QVrmlVyQbt3QCfOK+UNbJcwCK0SgB1iTPwUdo2dNjDDI+BhlYNrIhBDCNM/zpDc7ibeg0+WZWNRhT7F/+MIZhBhfS31ZMtFm+kEAAAAASUVORK5CYII=",
+  "voicelines": [
+    "...",
+    "...",
+    "....",
+    ".......",
+    "................",
+    "...........?",
+    "!!!",
+    "....!",
+    "???"
+  ]
+}

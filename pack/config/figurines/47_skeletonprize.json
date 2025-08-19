@@ -1,0 +1,12 @@
+{
+  "name": "skeleton",
+  "description": "Spooked ya!",
+  "category": "Special",
+  "number": "05",
+  "identifier": "skeletonprize",
+  "rarity": "Rare",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAHlBMVEUAAACUWz2mo3WxbUm6uZ69upLPz6nXs5/fxrfm5sYDmqI4AAAAAXRSTlMAQObYZgAAAGZJREFUKM9jYBhcgCkJTUBligKqQGZmAqoAZyYqnzU1NRVFgC0sLQxFICwgISwARYAtjQ1FIC00NCwB1YwwVDOAegLwC7CmsaG6g0mJSQmJy2xsbNzR0dEAFxAUFC8vLzY2HkzxAQDX8xHp2vNSwwAAAABJRU5ErkJggg==",
+  "voicelines": [
+    ""
+  ]
+}

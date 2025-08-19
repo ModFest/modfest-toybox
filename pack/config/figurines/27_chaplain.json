@@ -1,0 +1,17 @@
+{
+  "name": "chaplain",
+  "description": "A figurine depicting a Chaplain hopefully praying for good things.",
+  "category": "Service",
+  "number": "07",
+  "identifier": "chaplain",
+  "rarity": "Uncommon",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB6ElEQVRYhe2UP2hTURSHv5o0avNeY9EkRC7GqBRSBEERJI9Ax2YrBedi5xK6VSo8XBTcpBWcWsls6NDJUQIJnQSXhNJqRAIhDSL2JURMynEIfYJdch/i0vdN9x7O+Z0f988BHx8fn7POmJciy7Lk71i5XPakpV1kWZa0Wi1CgT+xX8cQj8c9mTinW3DSvLp3wJWpS1T3DggFhnEvaDtOp9MSjYS5nogTGA9y3B/wpdmi/aNLrVbT1gvqFgDEzod4/fQxzrcm5uUEi/lV2nS9SOlfgeM4dCcizC2vEb6fY255je5EBMdxPBnQOrIXS3fkRsJk64PJ0l2Hz02Hwm6fZDLp7le3Pmppap3Awnye9dJQ/8nbQwq7fQaDAQDrpTEW5vM6cvoGbt2+x7tXzwF49jDG4oNxgsHhMyoVNrianNY2oM3+zqYopSSXy4lSSrLZrCilZH9n89RwGgXtb6OUkkwmQ6VSwTAMOp0OqVSKer1Oo9HQ1vM0PpVSAhCNRmm32wCemoPHOWAYBgC9Xs9d/zds2xYRke1iUUzTlO1iUUREbNv+92/gTb1+4VEq9RNgZXbGbXAzPsW12KSb9/XwiE+t7+7+5fvqyNcxUuLK7IycNJ00wpjmxVM5jtPjqNN1zeiY8PE52/wGjM6yC09qjgIAAAAOZVhJZk1NACoAAAAIAAAAAAAAANJTkwAAAABJRU5ErkJggg==",
+  "voicelines": [
+    "Would you like to join my cul- I mean religion.",
+    "Gods make me a killing machine please!",
+    "God exists!",
+    "Those aren't blood runes, I drew them in crayon.",
+    "Anyone want to be sacrificed?",
+    "Vampires aren't real."
+  ]
+}

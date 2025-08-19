@@ -1,0 +1,17 @@
+{
+  "name": "warden",
+  "description": "A figurine depicting a Warden, ready to jail someone at any moment.",
+  "category": "Security",
+  "number": "02",
+  "identifier": "warden",
+  "rarity": "Rare",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACBElEQVRYhe2UMWgTYRiGn1htkeSOU6HlophQk9ILVq1icAl0EHQxSx0LDiGCscW6CFksdBInJTWioYs4RMikSwsiQgcFtaVGOtQqjYQerUiP5oqxWH4HzSF0yX+Qqfcu//3f/33v+/J+cODBg4fdDp/sQDiWEADh7nNObfnr27/nwow0315Z8YZw4e4Vtn+t0dbRSfqW0yJkTbhOAKBw/zbpG+POm5sEpAfy+byYLL3bUU9dPksmk2ntCgDevJriTnaE8GEdgIP7fjO7/J0nj3KyVO7w+fmkAISu60JU3jvf/+rSkI6sYSIY6qH2w0Q5pLNSWSSaTLnikh4aCkXErL+dh23tvLhwnkvTL7m2vcXpzS2eVpak+fbIiqfVAAATvVFUVWWiNwpAWg0wFIpIr0HKwFguy3y9DoBlWZTLZSzLAmC+Xmcsl5XVlzMQOX6GVKkAgKZpWJaFpmkAjEwXCYZ6WmvA133Kt1JZBMC2barVKrZtA7D06QP+k4nW/4gAEl1HxMXrVznR38/HuTmmHjxmZrXqiksqgQb6BpMEiyWeDd8kWCzRN5h0Q+MeiqKIeDwu/j/dckknoCiKMAwD0zQBME0TwzBwa6LpvY0OxByBY10HONqpOm/f1jb4srru3O+9Xmiat6nG0YGYaIiqAT+Ksn9HT632kw170zEjY8KDh92NP4VCtQqH8g68AAAADmVYSWZNTQAqAAAACAAAAAAAAADSU5MAAAAASUVORK5CYII=",
+  "voicelines": [
+    "Execute him for breaking in!",
+    "Perma the fucker for insulting me!",
+    "We totally treat everyone fairly and do NOT mistreat our prisoners.",
+    "Brig is my home. My home is brig. My brig is home. Stop, what?",
+    "Soap is now contraband.",
+    "You're going away for a long time, buddy."
+  ]
+}

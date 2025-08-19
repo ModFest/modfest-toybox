@@ -1,0 +1,18 @@
+{
+  "name": "atmospheric technician",
+  "description": "A figurine depicting an Atmos Tech holding an unlit welder.",
+  "category": "Engineering",
+  "number": "03",
+  "identifier": "atmos",
+  "rarity": "Uncommon",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABjUExURdbCdduynf/e0AAAAPXRw+i+qltNMXdfMZF4AABukwCl///uAJ+dIJeXl//yANPQCMKgADYvH+qzD05LS2Y/J4RQLWZRNX5+fv///66srA0NDXBAKpNXO7FtSb95VMyGXQAAANAeP3wAAAAhdFJOU///////////////////////////////////////////AJ/B0CEAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAC2SURBVDhP5Y/dEoIgEEYXNQFBE63U/Mn3f8oW2plYJ+2+Dhfw7Z4ZdmH9wl8K4KE3wWLob4w4AQiAZGMwQSQpHnEkeA4EENkpw28oB5iQS5Upme8KusiNKvJCUw7EgtXSlEZqSzkQC9VZ1qVzVdM2VEHYDNZdru5mW8oBJqTOGOfauMYF0LWq9f6auIdSiu2wEbp+uA99R+lFJIzjOM3zPOFNFc9bwO7y8CzoUA3hM3zgF4R1fQLv3XO2fVQa5AAAAABJRU5ErkJggg==",
+  "voicelines": [
+    "I put plasma in distro.",
+    "I will burn you in a burn chamber.",
+    "Frezon...",
+    "Tritium...",
+    "Glory to Atmosia!",
+    "Distro? That's short for disposal.",
+    "TEG: Thermal Energy? Gone!"
+  ]
+}

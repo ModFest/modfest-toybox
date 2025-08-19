@@ -1,0 +1,16 @@
+{
+  "name": "syndicate footsoldier",
+  "description": "A figurine depicting the outfit of a syndicate footsoldier.",
+  "category": "Syndicate",
+  "number": "04",
+  "identifier": "footsoldier",
+  "rarity": "Common",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAB1UExURSEgIoMAAFRTUC8uMUJBRA9uqRhepTw8PIuLi8TExJmZmRUVFTExMUFAQBsbG25ubklJSa8rK/8/Pz08PFlZWVxbW0lHRz8/PyoqKikpKR4ZEkk9KXBeQjIpHA0NDTY2Nh0dHXBAKpNXO7FtSb95VMyGXQAAAGH/emIAAAAndFJOU///////////////////////////////////////////////////AINWl9kAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADBSURBVDhP5Y7JEoIwDEBTC4K2yKoiyI79/080QGZsOo6eHV8P2V7agvnCfwoA7gavQeyEu0JxBaTwhHR2KK6AwCecK1jlgb/3waNqgwkSgjAASdWGc98hPPIOF5SOokgrqjZsQelTHMeJVmlGHcQWcq2KolA6zVLqILZwvih8AvetOf/DtUxuSZnbcy6Yqr5XDeUEF5qqqT8KbYeHcoIJbde3vWNYwjAM4zRNI0bqLLwEnM6PhRkd6iH8D2/4AcGYJ6POjSQh5PoMAAAAAElFTkSuQmCC",
+  "voicelines": [
+    "I'm an evil boy. Less boy every day, more evil every day.",
+    "Who will you choose? Them or us? Us or them?",
+    "Glory to the Syndicate!",
+    "Down with Nanotrasen!",
+    "I'd rather die than join Nanotrasen."
+  ]
+}

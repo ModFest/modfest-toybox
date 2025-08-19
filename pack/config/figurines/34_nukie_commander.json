@@ -1,0 +1,16 @@
+{
+  "name": "syndicate operative commander",
+  "description": "A figurine depicting someone in a beefed-up blood-red hardsuit, similar to what the commander of a nuclear operative team might wear.",
+  "category": "Syndicate",
+  "number": "01",
+  "identifier": "nukie_commander",
+  "rarity": "Epic",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABUUExURUlBODQiJFU5PGlFR2IDA4d2aYD/gL3/vX8nK0WgX1jOeuolGicnJ1FRUU9BOWtraz8/P46OjrUeDtc4J0gwMQ0NDXBAKpNXO7FtSb95VMyGXQAAAA3w67oAAAAcdFJOU////////////////////////////////////wAXsuLXAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAArUlEQVQ4T+XPyxKDIAwFUALRRg2KaH2U///P0jEzNU6r+/a6wCQHBZMu8o/AJAA47NEArLNwArAob2WBUm3RAMkRnoHLLxhnncmgqqWjATbsvecGq7qSlgLUttyFjtv9XAEk34feq/nxF6EL3Oznh0NaZrYnt0iADkHeJQoQRohIUm3RAFx+vgMa4ngf46DEDkzTNC/LMudVOq+8QZ6uj1fWbKSXo87wKb8AUnoC1aNip7fYIx4AAAAASUVORK5CYII=",
+  "voicelines": [
+    "GET DAT FUKKEN DISK!",
+    "Fuckin' flukies.",
+    "The Syndicate sends its regards.",
+    "Failure is not an option.",
+    "Whoops."
+  ]
+}

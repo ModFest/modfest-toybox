@@ -1,0 +1,16 @@
+{
+  "name": "syndicate operative",
+  "description": "A figurine depicting someone in a blood-red hardsuit, similar to what someone on a nuclear operative team might wear.",
+  "category": "Syndicate",
+  "number": "03",
+  "identifier": "nukie",
+  "rarity": "Uncommon",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABUUExURUlBODQiJFU5PGlFR2IDA38nK4D/gId2aeolGq8rK/8/PycnJ1FRUU9BOWtraz8/P46OjkgwMdc4J7UeDjs7Ow0NDXBAKpNXO7FtSb95VMyGXQAAAFqFOtEAAAAcdFJOU////////////////////////////////////wAXsuLXAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAqklEQVQ4T+WR3Q6DIAyFqRSHK4o658/6/u+5Gkm0ZNP77dyQnvNBDqnhC/0jYBgAsjsagMIWcAKgK2+lwzRt0gA66/AMuHqBjS2s8czVPRkZ4CmEQF7yKjkaqGtqYkP1MVcAuNDGNqhcAx3FJlJ3zHUHQCJCSNMmBTD2j17/Mgcs2FNAdiXbUtId/PAc/NcO4zhO8zxPciZn1Q5IurxWLcIkT6Q7fNAvAMxv8NpjO/SU8eMAAAAASUVORK5CYII=",
+  "voicelines": [
+    "I got the disk!",
+    "Whiskey, Echo, Whiskey.",
+    "The nuke makes boom.",
+    "What's the code?",
+    "Commander...? ...That's a balloon..."
+  ]
+}

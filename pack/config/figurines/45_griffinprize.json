@@ -1,0 +1,12 @@
+{
+  "name": "griffin",
+  "description": "An action figure modeled after 'The Griffin', criminal mastermind.",
+  "category": "Special",
+  "number": "03",
+  "identifier": "griffinprize",
+  "rarity": "Rare",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEUAAAAAAABKMBdePh11TiR+hIWKWyuUWz2VnJ2eczGlrK2xbUnBxcbMz9DXs5/X2tvfxrfmvjXrzWU23GOPAAAAAXRSTlMAQObYZgAAAIdJREFUOMvdkEsOwyAMBR1M0xdq6uL7HzZ8smvsA2QkYOFhJCB6Hi8C+uYDiHQlELbWtlAQMwkEVJj1zb+PqlXhNSA6jHncCyolA7mIwiuUfBy5hIUhhIV9jwvcCQpgTonZfydxIkpM/l9egk9VIq2B0NpaHmZDMLuffha/xf/8PfhOpkiP4gTEEwcWPlW+/gAAAABJRU5ErkJggg==",
+  "voicelines": [
+    ""
+  ]
+}

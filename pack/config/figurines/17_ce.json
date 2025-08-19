@@ -1,0 +1,17 @@
+{
+  "name": "chief engineer",
+  "description": "A figurine depicting the glorious head of the Engineering department.",
+  "category": "Engineering",
+  "number": "01",
+  "identifier": "ce",
+  "rarity": "Epic",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACDklEQVRYhe2Vv2tTURiGn6iDVpNghGpLTAypBlorlpshgokhg4q0ooPQ4iI0S5xKlg6C7V8gwkVsIUWX0MFQi6ZgO4Rql0gsxVSEaos/KK0KVrxRdAmfQ0kQ4pBzSwTxvts533fe97kf93DAkiVL/7I0D7JVj21mDiXjCdE8yImT59A8SDKe2DKIUvhMdkoMwxDNgxiGITPZKdMQyhPwBfyEImGGk4OcOp1gODlIKBLGF/Cbycem0pyMJ8QX8PNmaYWzF7oJRcLkn8zxaDJLZf9G6raSp1IzQCwWE4C2sTJR5zFmvxZZ7t8OQC6XU/ZTPvD6wZi0HdVq9pdfzHP4fH/jASoQrd4jlD6vY9/Xwtq7V6bCTQFc7ukStwtaWxaI982RGg+ztt7F6gakHy4o+6ndgtEmSQ8VWd0Ap3eE1HgYp3dkM3yoCKNNyldRCeDOjmbQyrhd0BHUWDKu0hHUcLsArbxZbyTAlUtvWXy+8481KUFQ+9BYAJsD27P5AwAEJ3u5dX2a4MFeAO7eO0Tn8Z+mfkRl6boucs0v+XxeFouPRdd102+BqccI4GlPmkKhYPZ4VaZGdvFMd80X35/O/p3xT2QyIiIykclIX6dNfl+b8aubeiDaXg3w79+Lp9lRrb3/ZLDy8Ut1fXP2Zd2+dTUORNulEurYsxu7fVdNT6n0A+Pb9yqMCoQlS/+3fgEIx8SKm9jG+QAAAA5lWElmTU0AKgAAAAgAAAAAAAAA0lOTAAAAAElFTkSuQmCC",
+  "voicelines": [
+    "Everyone to the briefing!",
+    "Wire the solars!",
+    "How to setup the TEG?",
+    "SINGULOOSE!",
+    "TESLOOSE!",
+    "Power's out again."
+  ]
+}

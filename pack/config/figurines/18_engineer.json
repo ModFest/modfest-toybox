@@ -1,0 +1,18 @@
+{
+  "name": "station engineer",
+  "description": "A figurine depicting a Station Engineer holding a crowbar at-ready.",
+  "category": "Engineering",
+  "number": "02",
+  "identifier": "engineer",
+  "rarity": "Common",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAB+UExURTMeAGZEAGxaSsCgAP7VGJNtAndfMUJCQmbfP6bubduynf/e0AAAAPXRw+i+qltNMZF4AI42AP9/AP/uAJ+dIJeXl//yANPQCDYvH2ZmZi4uLmY/J4RQLWZRNVVUVMKgAGZKITYuHcKXRYppLXBAKpNXO7FtSb95VMyGXQAAAHFAxfoAAAAqdFJOU///////////////////////////////////////////////////////ADKo8FwAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADVSURBVDhP3Y7dEoIgEEYlFc00RTTRSs3feP8XDGRnYqearutwwX7LYWcd+YWfFF4+4AZxdg6BGkACcT3Hc7GBBN8jhHg+JIMtUF+NcImPRqAJQRDuwyCAZEBCdNBEkAxIiKPkmEQxJAMSUpolGU0hGWyB5SnPeJozyBu2UDCalzllBeQNWzhVlJdCVHUDDQ3aoRDni7gWjW0gIRacCxHL9pMgWZd1TLY1RA0W+ps6UANI6IexHwdsWMI0TfOyLLO6oaN5Cup1vWtW5UBPgXd4wz8IUj4AjPiXV+7xeJ0AAAAASUVORK5CYII=",
+  "voicelines": [
+    "SINGULOOSE!",
+    "TESLOOSE!",
+    "What is AME?",
+    "Free insuls at Engineering!",
+    "Where'd the power go?",
+    "Someone bombed the medbay... again...",
+    "Well, why don't you come and fix it?"
+  ]
+}

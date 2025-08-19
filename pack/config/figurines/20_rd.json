@@ -1,0 +1,17 @@
+{
+  "name": "research director",
+  "description": "A figurine depicting the glorious head of the Science department.",
+  "category": "Science",
+  "number": "01",
+  "identifier": "rd",
+  "rarity": "Epic",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAByklEQVRYhe2Uv0ubQRjHP29x8UcCpaA1g4JJpcRKFcdaMA7SxXdwCc7OBdE/oDgUdFAEp7zg4GKQpg6BznXIIQQ0Io2ImoAOEYUi5E3V7emUw9DB3IlT389y93B33++Xh7uDgICAAEsSJCVBUp6q49gYA0SIAlChBMBPtoy1jAMkSErd+A6/Ye2Ga6sQLaYH6ubfyzO69jc+ARBesFEzJEFSpHwgQMNY/fLa6j68MD3gZScAkPJBw3g18tXG3/wSApxm1yXS24//+5LQq24q5ye8cWestIw7MMWSLLo1Cr7D5Pg3Cr7DoltjiqUnP8lHWV5ZExGRFCkREcnlcg318sqacQijDrixNpRSuk6n03qulMKNtZn6mwWIvRthOCTkuddBlFLkuedDpINIb//zBnD6hpzK+Qm78RTF0SIAxdEiu/EUZ7/2aH//8fk/ouzZLZ7nAXCYPmQgN4CHRzZfMJUCLJ9h/bKVS8f0Rd8CMD/32UrL6ive+bGp5xfH+zYS9mxnMiIisp3JyPSgIw9rG72m2zY7FtcG0a6X9HSG9drFdZXS1Y2uV3eOmtZtauPsWFzqpuGOdkKh1n/2+P4d1dofHcYkREDA/81f/kLHnQe2PvEAAAAOZVhJZk1NACoAAAAIAAAAAAAAANJTkwAAAABJRU5ErkJggg==",
+  "voicelines": [
+    "Blowing up all of the borgs!",
+    "Tier 3 Arsenal? No way.",
+    "Now where did I leave my hardsuit...?",
+    "Now you're thinking with portals!",
+    "The cake is a lie!",
+    "The trait I look for in a scientist is expendability."
+  ]
+}

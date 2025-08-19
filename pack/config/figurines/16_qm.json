@@ -1,0 +1,20 @@
+{
+  "name": "quartermaster",
+  "description": "A figurine depicting the glorious head of the Cargo department.",
+  "category": "Cargo",
+  "number": "01",
+  "identifier": "qm",
+  "rarity": "Epic",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABRUExURUQ4AP/e0AAAANuynfXRw+i+qmpqaruQQqBzK7Ozs5eXl8DAwGhOJSoqKklJSdnZ2T8/P35+fv///66srFktAXBAKpNXO7FtSb95VMyGXQAAALv7FKcAAAAbdFJOU///////////////////////////////////ACc0CzUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACtSURBVDhP5Y7ZEoIwDEUbW+liAQFZ7P9/qClkxl5weXY8fWhuciYTlb7wn8LRLzsqqYwkAeI63xmwQSki2hko0InfB0HzAiL9VmDDnA3OUaisM85WkjZKofLOhovzYJSC9tEGG72WvFIKZKILLpKRvAI36LppmxoWoMBXeLzgIAR+UgsoXDNSCyB0/XAb+k7SRiGM4zjN8zzxL53MU+Dpcs8s7EiPwRte8ANCSg8ucF73aBYl9AAAAABJRU5ErkJggg==",
+  "voicelines": [
+    "Who stole the shuttle?",
+    "I won't approve the guns.",
+    "I didn't buy those guns!",
+    "One toys crate for ma fellow clown!",
+    "Time to spent all money on gambling.",
+    "Viva La Cargonia!",
+    "Fill the form.",
+    "Where'd all our money go?",
+    "99% of gamblers quit right before they hit it big!"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "paramedic",
+  "description": "A figurine depicting a Paramedic wearing their void suit.",
+  "category": "Medical",
+  "number": "03",
+  "identifier": "paramedic",
+  "rarity": "Uncommon",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB3UlEQVRYhe2VP2gTcRTHP9eITZpcQYRcF/80ly6H2uGSUOhSdNDDNdqlCA526dDu0tHdWSiCdApZBZdClzqUHNQowkF/J2bSLIVevBgVfg7VoxqH/H4Ql94XHo/3+733/X158N4PUqRIcdZh6BTZ9or8+0yIbS2uczqPi5l7nC/MMHhVY/LOPt96n7BB6ohQKrDtFfnuxVtK9eLQXdjscu3BdeVOTKgkA0ytrxE2u1y9fTexsNllan1NlUpPAJk8pXqR7197iZXqRcjk/48AIw6xFqr8GMSJWQtVjDgcvwAhto3ZOCBqd1iumZQzH1iumUTtDrNxoDUJyh0QwiKbPcT327juDXy/TTZ7iBCWKhWgOAWy5Z7Mv9vCMJ4BPuAi5Sr4lRPCij++KZgLt5iobv6bqLrJXLilQgcoLqKbly5SeFn4Ffl/+EevXfaPBsoClFFuHEjHcaTneTIIAul5nnQcR5YbB0PreRRo7e/+3rzMLd4/FTfILb7R4tLEquzvzcvTXpdJS/XDWxUJEPUHmLlJAJ7vtLS4NIqeSPgIXGHYPx7fb7ix5CRttq0LXC5OJ3ed7jHi81ESP919PzLvSIkbS478/eh0IY9p5oZyoqjPce9LIkZFRIoUZxs/AUBgsb3YL3VUAAAADmVYSWZNTQAqAAAACAAAAAAAAADSU5MAAAAASUVORK5CYII=",
+  "voicelines": [
+    "Insuls and tools!",
+    "I need AA for saving people!",
+    "SUIT SENSORS!!",
+    "I need the hypospray for saving people!",
+    "14 dead in the clown's room."
+  ]
+}

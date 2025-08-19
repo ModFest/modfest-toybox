@@ -1,0 +1,20 @@
+{
+  "name": "janitor",
+  "description": "A figurine depicting a Janitor with their galoshes.",
+  "category": "Service",
+  "number": "11",
+  "identifier": "janitor",
+  "rarity": "Common",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABs0lEQVRYhe2Vv0sCYRjHv0VLlEFERceZ0I+DDg+MQNxy7F0atD8gqElCWxoaBBenlobQSSjBLRcdbLta3IJCCUwLCkkyIsh+jE+DeWAa+b5gDd1nOd7nfZ/n+dx7L+8BJiYmJn9Mj0jS1uI+fY3tnKwK1erlTfAoQXKMzjfFHKPz8CjBFqluQR4lSImVc9J1nRIr5/TZXEhAZNuIrs/gXUoageSRFz1TDqF63AnFVIxm7Ast8VL+FLPLa90XaEhINgW1xwosIxO4u7kUag4IHMKAFiJ/9BDxbB6WkQnEs3n4o4cIaCGhM8AlENBC5JLcAABZlhHP5iHLMgDAJbmFJLgENsJWVN8qbeeqbxVshK28/fkEZuwLWN+rv3G5XG56+g/mINkUbgFuiqkYqapKjDEqFArEGCNVVamYiv3aPQCfz0eMMWOcyWQQiUSEavWJJAH1rc/lctA0TbSEOA8lJ+lp0LYPpKdBDyWn8H+A+x7Q0+3v/O/iP9Hxd9t0q0aD6fFhTI4NGXO31Wdc3T8Z493ji47rdrRw061So+nQ4AAslv6WNbXaO55fXg0ZHgkTk//NB1NdnSsazbODAAAADmVYSWZNTQAqAAAACAAAAAAAAADSU5MAAAAASUVORK5CYII=",
+  "voicelines": [
+    "Clown stole my soap. Again.",
+    "Look at the signs, you idiot.",
+    "I've never seen this much lube in my life.",
+    "Another day, another spill.",
+    "I'm not even paid for this.",
+    "This blood wasn't evidence, right?",
+    "My only friend is my mop.",
+    "That better not be what I think it is...",
+    "Another day, another body."
+  ]
+}

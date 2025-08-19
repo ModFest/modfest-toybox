@@ -1,0 +1,16 @@
+{
+  "name": "rat servant",
+  "description": "A figurine depicting a rat serving the king of rats!",
+  "category": "Animals",
+  "number": "01",
+  "identifier": "ratservant",
+  "rarity": "Common",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABh0lEQVRYhe2RL0gDYRjGfyeGOU/Hp6BFbjKbBp3jQLZydYhBBKMwsGgStVgMM5gUiyaLYBJkSawmGcgYCxoE5ZxXFG4y/4Jhn8lDWfA+EAx+v/L9eV+e9+F5QaPRaDQazR9jqDRnHVt+3o9Pzoyf/n/VQNax5cHGKs+vr0wtrjTVDzfXMaNRppfySiZawzYCXFZv2T06Znh4qKmW39tndjyrIqdO1rFl2k7IudkJKeHbmbYT8usqwqK0L4C0nZD9/X3EYrHgr16v47oep2fXBkCpsCNTk/OhtFtUhwth4roeAJFIBADX9RDCJG0nJEBqct4oFXZCpaFkoNF4x7LiCGFSqZyTz81QqZwjhIllxWk03tleW5YqCSivYCzVJ5PJJNXqDb5fo7u7C8uKUy6XKZY8ZT2lBAByoxlGjCi+X6NY8gzfrzFiRMmNZlSlAIUEFpzBYKcDvQKrpzOoVe8fubp7CN5bJxehdUM1LjiD8nNop9lOR0dbU8/T0xuPzy+BGRUTGs3/5gOkdo2RcZPTOgAAAA5lWElmTU0AKgAAAAgAAAAAAAAA0lOTAAAAAElFTkSuQmCC",
+  "voicelines": [
+    "Capiche!",
+    "Boss says!",
+    "The boss wants a word with youse.",
+    "Ay, I'm walkin' here!",
+    "You get the chedda', then we talk."
+  ]
+}

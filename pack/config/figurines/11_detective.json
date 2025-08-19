@@ -1,0 +1,16 @@
+{
+  "name": "detective",
+  "description": "A figurine depicting a Detective wearing their iconic trench coat.",
+  "category": "Security",
+  "number": "03",
+  "identifier": "detective",
+  "rarity": "Uncommon",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB8klEQVRYhe2VMWtTURTHf406lPoKIs+SIMbGmPS9pbQmWbIEJGstbUgnacDBTbo45wO4+AX6AUrloZ06OFTEugTFRUxbo3nYPio0hRdDHjoch9insR1yn1QH32+5h3PvOefP5Zx7ISQk5B8zFCRoYTolv/tWXm0FyqUctDCdkmJxAoB6fc/327YbSERENaARGfPtdDp2ol8FJcX3ZzOy8WmYq4lkn/9jYweAwuUuDx7XlHKeVTls2y53izHgoM9f/9r19/8GEo1GRbght0szvg0ca8xTYXttWXwRzZpv//ArE2h0tteWJRZP0T5w0C5G2WtucX3mTqBcypTyGTFNUzzPk86b5+J5npimKaV8JtANKI1hKZ+R7GTvDahWypxJZ6lWygBkJycIIkJJwOpijVar1+njiTjVSpnxRByAVstldbGmWl9NwPz6HJu7hyfube4eMr8+d7oCLMsa0nUdgCevd/pWXdexLEu5EZUeIoDIvs292ZsAfGg0uTWVhKkkT5+9VE0FBBzDo2Yb+faOzrleUz56ofYE/xGapkkul5Nf16C5lH9DTdPEMAwcxwHAcRwMwyCoiIGvbalg+gWujV3gyqVRf8/+7PJ+/+d0PNx4O3DegQ4uFUw5Kjp6fgRNGz52pt3u4n7p+GJURISE/N98BwUotplKS+UjAAAADmVYSWZNTQAqAAAACAAAAAAAAADSU5MAAAAASUVORK5CYII=",
+  "voicelines": [
+    "The butler did it.",
+    "I need some whiskey after this.",
+    "Chameleon fibers? How did a chameleon get in here?",
+    "Go go gadget!",
+    "Of course I checked the door logs!"
+  ]
+}

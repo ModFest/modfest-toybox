@@ -1,0 +1,17 @@
+{
+  "name": "chef",
+  "description": "A figurine depicting a chef, master of the culinary arts!.. most of the time.",
+  "category": "Service",
+  "number": "08",
+  "identifier": "chef",
+  "rarity": "Uncommon",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABgklEQVRYhe2UP0vDQBjGnxQXrQlIgqKIBf90KIKCQyehmyQFP4GbX6AfxS/gEjKGDm5u1r2g0IrUajjRiiat0PiHLn0dJKGlHXqvOIj5LW/ucvc8D7x3ByQkJCT8NYiIPM+jcZWjp3BDjAgpCktrirMJ3iVr2zhSshvo7oIAYM95wGCN5n89QLNWBQCcHiwP1WheFlbfbk6OaSmTRdh+gqovoiUa2Ng/ZGlJ4zgOmaZJRH3yfZ+I+mSaJjmOw2qBtHlkGJlHY6I+K4TULchrPQRBGwBgGHr8DQBB0EZe68n6ywVY39zBR+t6aM4w9O8aPmImk5UOIHULlNVtpSUaEELAsorodDqwrCKEEGjWqkhv7UofRNbJ9X1/qNeGoUNRUiwt6XcAAOr1emwMAJXKOUcGAPMptm2bbfhjyq5LRERl1yVVVWlwzNGbuG+lQi42WFuYw8q8Fv+7f+ni9vk1Hh+dXU2sO9HCUiFHkak2m4aqTo+sCcNPdN/e4zAyIRIS/jdfpSzJ21kxqBEAAAAOZVhJZk1NACoAAAAIAAAAAAAAANJTkwAAAABJRU5ErkJggg==",
+  "voicelines": [
+    "I swear it's not human meat.",
+    "More banana cream pies?",
+    "How does rotary sushi sound?",
+    "That'll be 1000 spesos",
+    "For here or to go?",
+    "Where'd Pun Pun go? No idea..."
+  ]
+}

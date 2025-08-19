@@ -1,0 +1,12 @@
+{
+  "name": "thief character",
+  "description": "Hiding in the shadows...",
+  "category": "Special",
+  "number": "06",
+  "identifier": "thiefcharacter",
+  "rarity": "Rare",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAB2ElEQVR4nO2WMUvDQBTHX6HUItiSr3A6uqWDH6B0L6UdxKlgpXOHuDi5NENnQaE4iSRId72hH8Bsrt4nEIKd6lTvJb54CaKXNLQI+cORu8vB/3fvvbukPJ/PYZsqw5ZVABQABUABsBZAu91e4XM2m5U2CkDGpmlG46wQqQHQDI193wchBLw6BjTOGGRVagDcKUIwxsCxmuB5OOttDoDCbxgG9GwOVtMI+lnTkAogGX6MgisAmM9BGAz6/f5qOp2mgtAGUM1RuGvOnmDglYB1x2AJF2zuQ1ppAajm2NAcxfg+DJxnsG1bpsIES9YCRgHf6UZCOwKqOUXBsQSY0JCFyKAn6xDrARtKNx2pAGjnJDwBnnIA1BTkFgEMPxpTo91bTRGtwb7Nv+8CWpMLgKqk+bkbRmTcjRvi6cgdIGmOO8aMqPNqFHIHUM0JiNIiRz/C5gJAVy/2+XU4x7+KkYxoHhjE6iQXAILA591oFH5+J5OowoMilXcEl6Zpb0FtAJIrwhQcJ+AQoisLL8v3QAvg/cEOdn57chQbo6p7NbgftoJ+Bw7g4/EqerfTGq5/Eb3cXKySc/XdStRfLN+ifq1aia1bStB6x/oV4k+Aw9PLzL9bOvrfP6V56BPY7N71O5FeUgAAAABJRU5ErkJggg==",
+  "voicelines": [
+    ""
+  ]
+}

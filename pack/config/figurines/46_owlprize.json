@@ -1,0 +1,12 @@
+{
+  "name": "owl",
+  "description": "An action figure modeled after 'The Owl', defender of justice.",
+  "category": "Special",
+  "number": "04",
+  "identifier": "owlprize",
+  "rarity": "Rare",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAKlBMVEUAAAAbGxswMC45KBhKMBdePh11TiSKWyuUWz2eczGxbUnXs5/fxrfh411itHRoAAAAAXRSTlMAQObYZgAAAH1JREFUKJFjYKAjYGY2MEAVMHFGE7ikiyZgpIwqYJxsZoyioDi9zBxZiXmZW0p6MbJASoqbG6pA5jT8AmYp6WVuySgCoaGoAqYhrsHIAsysDiwBKE4FCTDgFWAUYBRAERAUYBRE4nKtWrXqzJkzB+ACHR3du3fvWrWKgW4AAM3hIL4mTrPQAAAAAElFTkSuQmCC",
+  "voicelines": [
+    ""
+  ]
+}

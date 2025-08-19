@@ -1,0 +1,16 @@
+{
+  "name": "medical doctor",
+  "description": "A figurine depicting a Medical Doctor, donning a labcoat & syringe.",
+  "category": "Medical",
+  "number": "04",
+  "identifier": "medical",
+  "rarity": "Common",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABRUExURUktCnd3d//e0AAAAFDbyv/u3duynU2lkfXRw+i+qo2Ok8TExP///x4rdGtrazU9yTI0qFVVVX5+fq6srFktAXBAKpNXO7FtSb95VMyGXQAAAGDB18kAAAAbdFJOU///////////////////////////////////ACc0CzUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACxSURBVDhP5Y7rDoMgDEYR3ea+gjqdl/H+D7qKTWzNLv+3Ewh89KTUpS/8o+CS4yVBsEKmkLShhVz2rjh03eFqWZ0q+4dKzp2999XlU4dzfa0LHlRhBIBqAt4KCAjEG5IzWoiE0ARQlJzRQtuBGkLbSc6Y/2LuEEuJGSOAuAMhacMICWhgRjwKtxW5C0bow3AfQi9pQwnjOE7zPE98ysvKLnB1eaws7MgbY2d4wS8IKT0BQXFfaZK635gAAAAASUVORK5CYII=",
+  "voicelines": [
+    "The patient is already dead!",
+    "CLEAR!",
+    "Saw makes BRRR.",
+    "Just a week away...",
+    "I knew it..."
+  ]
+}

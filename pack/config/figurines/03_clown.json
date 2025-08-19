@@ -1,0 +1,18 @@
+{
+  "name": "clown",
+  "description": "A figurine depicting a clown. You shudder to think of what people have probably done to this figurine before.",
+  "category": "Service",
+  "number": "02",
+  "identifier": "clown",
+  "rarity": "Uncommon",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABUUExURfJ/GOFsDdbMzP//AP///wAA//iKiv8AM6QICCV1pPPz8//A/9uynf8AAP/e0PXRwwFOegM5WMQAAD8/35kz//8zM3BAKpNXO7FtSb95VMyGXQAAABZjybgAAAAcdFJOU////////////////////////////////////wAXsuLXAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAu0lEQVQ4T92O4RaCIAxGQcxGODUzzXj/92ywWdOT9d/rQfZt9wAm/uFwgjEclp351NQ3lnabCm4ltGBtkbCkSI9QpSXBlY6EdNCCEmIsyhN9hSRmI1Tn6peQjM18LYCHCy1JjBYg+JCX5IwWavCI6LGWnNFC0/oQgm9ayRklANa+u3a+Rn3HSkDs+57+O0IEGid2HxmBkcToK27D3YG7DzsnjOM4PRITVdIj3gJN5yczkyPdzRu+cQQhxheX42EAnoEu1wAAAABJRU5ErkJggg==",
+  "voicelines": [
+    "Honk!",
+    "Banana!",
+    "Soap!",
+    "HoP has one clown, HoS has the whole department.",
+    "Do I annoy you?",
+    "Can I have AA? Please?",
+    "I'm a clown, but you're the whole circus!"
+  ]
+}

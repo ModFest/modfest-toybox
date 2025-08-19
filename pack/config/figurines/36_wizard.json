@@ -1,0 +1,15 @@
+{
+  "name": "wizard",
+  "description": "A figurine depicting someone with a long, silky beard wearing a wizard outfit. Warlocks wish they had anything on this.",
+  "category": "Antagonists",
+  "number": "01",
+  "identifier": "wizard",
+  "rarity": "Rare",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABFUExURQMubwtClQxHnQdRwNuynf/e0AAAAMnJydbW1ui+qv///0Q2LF+O1ilWmvXRw4ymzmAwAHBAKpNXO7FtSb95VMyGXQAAAPU6NVIAAAAXdFJOU/////////////////////////////8A5kDmXgAAAAlwSFlzAAAOwwAADsMBx2+oZAAAAL9JREFUOE/dj20XwiAIRhE1bZu1t/z/PzVIToO16nPdrRMP3IMO6hd+UQBG6sYuObebbwIXgIgO32zg3ei9Z0Mfoyqa8ggcerVElxDiiR57CxNCTCnFIKlhhJryOWcuukdk7LqUc07U6rqnoQXwSEfwFfvjDUMBTAhl6KXBaCFeoNAT9dzeIQBc6WMlNYwA3pXiTOtVgI/COPIrqWFSCGGkn6SGEqZpmpdlmelfOswm0HS9MSs50iPsgQf8g1DrHZvvTaANE48kAAAAAElFTkSuQmCC",
+  "voicelines": [
+    "Ei Nath!!",
+    "Real wizards support trans rights.",
+    "Skidaddle skadoodle!",
+    "FIREBALL!"
+  ]
+}

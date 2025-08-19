@@ -1,0 +1,17 @@
+{
+  "name": "elite syndicate operative",
+  "description": "A figurine depicting someone in an elite blood-red hardsuit, similar to what someone on a nuclear operative team might wear.",
+  "category": "Syndicate",
+  "number": "02",
+  "identifier": "nukie_elite",
+  "rarity": "Rare",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABgUExURSAgIBcXFzY2NiIiIjQ0NAAAABsbG/8AAGYAAAAlhAAxrQ4ODicnJ1FRUSkpKWtraz8/P3cAAFcAAI6OjiwsLGsPD1AICBAQED4+Pg0NDXBAKpNXO7FtSb95VMyGXQAAAN4hh6wAAAAgdFJOU/////////////////////////////////////////8AXFwb7QAAAAlwSFlzAAAOwwAADsMBx2+oZAAAALNJREFUOE/lkNsOwiAMhoesm5PC0B3dQd7/Le1Cjeti8F4/Lmj7fyGkWfjCPwpZUEpx/UIIJ6VzfTCEAEV5LgvgLiIFoBcgJWh6QSeEALnOt7y6xJ4QgkFrLRrKK55IwRmsfY1mnwvherONb6zIhQAt+tpju8/lH6BAxNQeaBHqsIaj4OhwzUih66HvuGaEMIzu7saBu8hOmKZpXpZlppsnG2+B0vWxsZLDM0L+4QO/IITwBMUactCccnvhAAAAAElFTkSuQmCC",
+  "voicelines": [
+    "Not a word in Nanotrasen.",
+    "THAT'S A KEG!",
+    "Guys, are you alive?",
+    "Breach and clear!",
+    "Leave no survivors.",
+    "Good work, team."
+  ]
+}

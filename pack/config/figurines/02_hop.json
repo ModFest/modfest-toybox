@@ -1,0 +1,16 @@
+{
+  "name": "head of personnel",
+  "description": "A figurine depicting the glorious head of all personnel, away from their office as usual.",
+  "category": "Service",
+  "number": "01",
+  "identifier": "hop",
+  "rarity": "Epic",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABuUlEQVRYhe2UPUgjURSFv1lsxI0gOhu0WGX8RTYoiDaLIKR6FmKrVcDGUlsLO2O7jaWsVaogIraCsNoEBFdF/A2MhaKDDPgMdl6L6GjQZfMGTOOc5s59975zDvcODyJEiPDZYRnf6Pwp/6wdbRnzVRmLdw1Anf225nsAYmrii5GBoy2Lw1xRzPe4XpoJvjnMhZqA+QpAZmybAc8LDnK2TbqYh+EzNyD5HXkvhiEzWwFwsrpYdJHfKYnP56YINbKT1UVpau5A31wSq2/kwj2mfWSiIuOHRFKUUpIBKfz9IxkQpZSQSIZagRE21/pl5UlQay0ZEK21KKVkBWRzrd/YhNE/EH+YZDSVBmDecRhPpZl3HABGU2niD5Om+mYG2n70UZgeBGD4d0tJlNlhmpo7PtaA5fRaF+4xrusyt9AAvsfcQgOu63K6v01Nz2BFHiJIJIW+5Eu+vQ5766G4jN+BAL5XFPa9//d+iIH8bmmsFJazWRERWc5mZSxhyes8DF/Ze5sa6g4EWuN1fP9WG9TOr285u/KD/NfGQdm8ZTVODXXLs2jt1xpiseo3PVrfc3tXCMyYmIgQ4XPjEdDSwWX0RxvvAAAADmVYSWZNTQAqAAAACAAAAAAAAADSU5MAAAAASUVORK5CYII=",
+  "voicelines": [
+    "Papers, please.",
+    "You are fired.",
+    "BRB.",
+    "You can get AA if you fill out the form.",
+    "I was gone for two seconds..."
+  ]
+}

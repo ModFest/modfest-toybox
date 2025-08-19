@@ -1,0 +1,16 @@
+{
+  "name": "boxer",
+  "description": "A figurine depicting a Boxer holding their red gloves.",
+  "category": "Service",
+  "number": "05",
+  "identifier": "boxer",
+  "rarity": "Common",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABpElEQVRYhe2UTytEURiHn5HrzzAj3RqRMTUaCzY07CRlM1mIjSyVL+ALkFgbthYmX4BkIUtZj1CyuA41FCHJDGO46ljdi5A5R2zc3+btnPOe3/t03nMOePLkydN/l093ozzela5JtF3bR2vj2+I/hSjRLe6LtvM2fgb1KwBif9sp+C4686rSOrbDtUXZEGkhd31OwKznLGMRGxj7mxZYqaQ0u4cACJj1AJjdQ1ip5O+3wEolZayvByEEj+E2AB7DbQghiPX1aEEUDTDREZLWyoI7diCEEK+AKwtMdISUIEpVksOlBssjw+wV7pheXedqb4uuaCOTg/2UR0IUrm0VO0CxBYcXeSpMA4DZeIKnqTlm4wkATp9tYnV+ZQClm+sc7+lRgYTfj2XbtBgGG/k84eYKAGZ2LpU8tZ7OaDAoo4bBsW3jxKVsVstL7yvOpOXT7T2Z9DaRzjhlNVX4Ip1/9BVn0p/e8q/mv1PR1OO9rW6B5rpamkJBd+3kMsvRxY07nt88KNq3qMTx3lbpFA1WVxEIVH7IyeUeyN7duzAqEJ48/W+9ABNWotVRKhK4AAAADmVYSWZNTQAqAAAACAAAAAAAAADSU5MAAAAASUVORK5CYII=",
+  "voicelines": [
+    "The first rule of Fight Club is...",
+    "We settle this in the ring, alright?",
+    "I. AM. THE. CHAMPION!!",
+    "Don't look at me; he was shot, not punched.",
+    "1v1 me, captain."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "lawyer",
+  "description": "A figurine depicting a Lawyer sporting a freshly tailored suit.",
+  "category": "Security",
+  "number": "05",
+  "identifier": "lawyer",
+  "rarity": "Uncommon",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABkElEQVRYhe2TsUtCURTGP6PBrvqi18VQJNNXDhIk1BoI7i39BdEuTv0PQkNNTtrY4iS1R4tT4BBCWtqrh1GQ0dNuDcFtqHcjavDedPL9lvPO45zvfpx7LuDi4uIy7ngU+/iwtFSaOADwVu1bJJ76lwlpA7xV439FFbEJ2YZmpfjp4msCTnT+y6I0smalyMPRBHqPdwjMhtAxG1ja2FbSkp4ApZRnC2VY3iACsyFY3iCyhTIopaO/Akop13Vd5L7dd/Gt67qSCSkD1VIejDEAQCaT+REZY6iW8rLnyxlYXF7FxfEhAIAQAntzH4QQAMDt6RHC0cRoDXjiKU/HbMA0TRiGgbWdOgzDgGmauDw/g29lXXoRlTaXEMIjkYjILcsCY0xJa1KlCQC63S4YY+IKVJF+hg7OMjpRFemxxRbiXNOmYdvP6Pdt+P0anLx93RruDhy0296tWOwNAHLppHjjxtwM5oOaqLt5sHF1/yTyvZP6wEYGKsylk9w5VPP7EAhM/arp9V5h91+EGRkTLi7jzQcq/pIWBuJTSwAAAA5lWElmTU0AKgAAAAgAAAAAAAAA0lOTAAAAAElFTkSuQmCC",
+  "voicelines": [
+    "Better Call Saul!",
+    "Objection!",
+    "Did you know that you have rights?",
+    "Space law says!",
+    "Sign the contract first."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "captain",
+  "description": "A figurine depicting the standard outfit of a captain belonging to a civilian-sector Nanotrasen vessel.",
+  "category": "Special",
+  "number": "02",
+  "identifier": "captain",
+  "rarity": "Epic",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABgUExURbCYAAMsRFFGAwVYh1xBJhkZGa2trVxNPf+kSP/KlQA4a/e9ff/OWwBguABLj9OdNtOpAf//DaZ4H+HHCSoqKklJSX5+fv///66srFktAXBAKpNXO7FtSb95VMyGXQAAAEcSIW0AAAAgdFJOU/////////////////////////////////////////8AXFwb7QAAAAlwSFlzAAAOwwAADsMBx2+oZAAAAMBJREFUOE/djtkSgjAMRVuhiIEWkFUW+f+/JNA4JtXRZz0M0BsO7VXrF35SePkhGOiTptUDKehIRYHBBa2iHSUUJuD2HnGMOCI2yTkxMSWPEFJjLsaklDxCgDTDCyh5mAC5tZCBtTlX+A5gwboCn5QPuFBWAFeAqqR8wAXnwFm8HeUDUbJu2qJtakoeIWAL7ElrIhDwgI8C1pQVA6Hrh9vQd5Q8TBjHcZrnecI3TXaeAn5d7jsLOjRDZIc3/IOwrhuqx3ILISCVSgAAAABJRU5ErkJggg==",
+  "voicelines": [
+    "Glory to NT!",
+    "How did I get hired? Yes.",
+    "The nuclear disk is secure. Where? Somewhere.",
+    "Where did my ID go?",
+    "Everything is under control.",
+    "The disk was in my bag last I checked.",
+    "The chain of command starts and ends with me.",
+    "It's hard being at the top."
+  ]
+}

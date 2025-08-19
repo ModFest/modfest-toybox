@@ -1,0 +1,16 @@
+{
+  "name": "space dragon",
+  "description": "A large figurine depicting a space dragon, its red eyes on gazing on its prey.",
+  "category": "Antagonists",
+  "number": "03",
+  "identifier": "spacedragon",
+  "rarity": "Uncommon",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADCElEQVRYhe1WwWrbQBB9s6s4smM7NIeqNaU5CExpDjk1h0Ah8RflU/pHLeTWnlOCQVCXIuxeghwH20p2pwd5V5ItyUraU8m7CI125r2Z3Z0R8D+APMFP9t0w+NIG40BtfM+S8kQTeYKxR8Adw7zzRNeO66wvkoe79l1hyesO5EvGjCH8BjTiXObkCTZ2I8IQr8c1MXMCOFCksGTIhM84GSEA0PjQRfw5KivMRsY2xq94xc7lFTAiyJdMbWGdbJDREvG3aW69PHLBCw1yBdTVIjG2aYOYmgSe6Y1tLdxjI8CKmjPkm4YVYYLzQkMHcbIdqye5iZ/6sQQcAjVTiiIBAgXgQBHPNHjO4DnnMgEAffOAybAHcgWEnwgz5JNhLx9rFaOIvFSArUQzk0Gkk+eMwVMFrx9ukE2GPXj9EGq0BO7Y+mWrUFtAtgqINKLLa6irBaLLa2CWBPf6IfTkHtSU0JN7eP3QitRjBUQaeqzAY1V5pStBvmTyJZMnWJ667AxaTJ5g8iU7gxZPh0M+dxyeDofJt9VaZ9Bieery3zSpVIQnLIE43rECyJeW/Nxx2Fw98gSL4x12Bi1m5koRtcuSDRJdXmP/4zugnXfnQBF5gvVYQbySqb2gMz5aAJB2SnW1gDxyocIYspdeT4sZW3Hb9r7yFhRBjZaQR27eFsa2N8jDXfu9cbKfmwFFqFWBjbaazXbNTh0JcZA2WDVaVg+1WuQNgnydlFrfPICnKvnWTfaZpwrYIeA+TdYIkZ6L+GtUKmJjFpQhS2yD+WAjInsWOFAEH6wBqFE5+aMEGJQFU2FcZEbjZB8xIi7ze9QhpK4sPVSy17BVyKKq/ECNCpjxzEhGLnUl4IONIAMVxrkzAADiwIG6VZXxa1WAA0WIGbxIBhJ1ZY4cSM+A/Z/oyK03AHhCIyqyy8NdS2bI+bbeANq64OLsfY7U914AAN6+7ObW/fyd/CkFk5uc/dOX70+vwMXZezaEWdJuew+dTjO39vZ2junsLifGCKoSsfUQZjNaz+4Zz3jGv8Af75rOAkREhokAAAAOZVhJZk1NACoAAAAIAAAAAAAAANJTkwAAAABJRU5ErkJggg==",
+  "voicelines": [
+    "Fish will consume the station.",
+    "Dragon de- Actually, nevermind.",
+    "Crew is delicious.",
+    "Don't you dare make sushi.",
+    "This station ain't big enough for the two of us."
+  ]
+}

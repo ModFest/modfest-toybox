@@ -1,0 +1,18 @@
+{
+  "name": "bartender",
+  "description": "A figurine depicting a Bartender looking stylish with their rockin shades and tophat.",
+  "category": "Service",
+  "number": "09",
+  "identifier": "bartender",
+  "rarity": "Uncommon",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB4klEQVRYhe2VMWvbQBTH/zZFxjgyFNsJF1BVXDVDKHZNh3gpJCGLlmipx079Avkkpl8gm0Y7Qz6BR3soeBAZkjbIUUlp7VIsxRjJw79LIwolYF1iMlS/5e7d3Xvvz73jHpCSkvLIZGScNE1jPp/HWqGAm9kM8/kcnudJxcrKOD0kjy7giYxTq9VCs9mErusYjUbo9/tot9tSAhLXrVKp8K698Xgs9Q4SwcshhRDsdrt8/+4wnvNyeKewB+Xi9JgAKIS4TUohBP+sJ0bqyi5Oj7mpbyH4+Q1qSeB6dI6Xhx9Wf/0AYNs2LctivdZgr9djvdagZVm0bXv1JbBtmyRpmib39w5YrzW4v3dA0zRJUkpEon9gpxjCdV0oigLD0AAAhqFBURS4roudYpg0fzIBxqs3WPe/IooiDAZD+P4Ug8EQURThOafY1LdWKyBTfZ25Hp3DcRz4/hQA4PtTOI6Dz84nFOpvEz9E6WZULpcRhiFyuRwmk4l0M5L6igFgsVggCAJks/drJ1ICqtUqAKBUKsWj53n3ErI0J50OSfKk06Gqqvzblom3dN2OdrfjBC82nuLZejHeu/rh48v3X7H9sXe2dNylDh7tbvM2aXGtAFXN/3MmCObwb2axmCQiUlL+b34DsrvV+qL4qRIAAAAOZVhJZk1NACoAAAAIAAAAAAAAANJTkwAAAABJRU5ErkJggg==",
+  "voicelines": [
+    "Where's my monkey?",
+    "Sec won't drink.",
+    "I mixed a little something in there...",
+    "The recipe? Plasma and vomit. Why?",
+    "I need those toxins for my drinks, officer!",
+    "Read the room.",
+    "I've got a shotgun."
+  ]
+}

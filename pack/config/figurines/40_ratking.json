@@ -1,0 +1,17 @@
+{
+  "name": "rat king",
+  "description": "A large figurine depicting a rat king, prepared to make its nest.",
+  "category": "Antagonists",
+  "number": "05",
+  "identifier": "ratking",
+  "rarity": "Uncommon",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADVklEQVRYhe2Vz08bVxDHP1tHDS42a7brWg6sS6IcLFmqBKlwjXogEsWWckhOrZIiTmm5OKrEKQfaqlJScUI9cKjUnJDK34DTHOihQqAAQq7bHMPWtVV4JV7HW4oV9HKId2WrBXb7Qz2Ur7R6+2ZmZ75vZt4snOI/huLHOJtJS+e9sLKqnCT3gjN+gt+6OQnAnmkCyMLKqpLNpOX746NoiYRjKv2QeMkHWQAebayzI3Y7ZDtil0cb635d+SfQOjmF0kOCWoBrV0ZkUAtQKD3s0P9ryGbScngwIa9dGZFl6FiHBxOyvRe8wlfDDA8mJMC5c/309KiuvF63qFTKAKxtmr58ei7B8GBCJpOpjqDtK0AymXJJ/qMEnOD1uoWqRqhUyth2gze0OLbdoFIpo6oR6nXLNwnPGWg/qapGEELw1rtZhBCoagTLqmHbjQ67nIee8EzAqbll1QDQdZ3PPr2LrutYVo381etkU29i2w03+ETu8okkPA+iavVnurtDf5AHDoJ8kp9y9/F4n0syYhhM5C4DyKUjhpOnDKxtmooQgrcHkuSvXidwEHSDz8xOM39vgchFncXCMsXiFmubprK0sqrMf7XQPiH/FJ4I5DJpGQsbPNgooRkJ8jcnCRwE6dIC3Lk9x+HZfe7cnuOXpz8RCxsdaRePt/8egVwmLW+Mj5L/4MV/IHJRZ/7eAjOfv8fve4d0aQG6u0Mcnt0H4J1LKW6Mj5LLpOX4pRTi193j3B8/iHKZtHQCfzx3l1jYAKBLC7jBHdh2g3i8j2Jxi4nRHADRV6Ms3l/mqPqDhybc2zZZvL8MwGsDGsXiFi8fnCEe73dtqtUyzeYz4vE+AL5ZL7m644J7IqC9/qKJNr+vKIDUdR0hBNVq2bVpNp+h6zrF4lbLrnKSW+8E9rZNxoZSAHJsKMXX3y7hkHDg7FskfeHYJlxaWVWc9I8NpXiwUSIWNvhocopY2HAfZ/9XcGIGWjV0r5XTlI7OuXIt+ZED5yh4mgOO05nZaZ6YJr0Xmh363gtNnpgmM7PTnuZ/OzyznRpJuo4Hor0Y0R5XVxZ1Hu/UXG9ffvejZ7+eDD8cScrz0V769R7CoVcIhYIdHypAo7HPU/s3yqJOtWbxxfIPvhvyFKf4f+I5bQJfolwfcbkAAAAOZVhJZk1NACoAAAAIAAAAAAAAANJTkwAAAABJRU5ErkJggg==",
+  "voicelines": [
+    "Gimme some food, capiche?",
+    "Fugeddaboutit.",
+    "Whack 'em!",
+    "Let me give you an offer you can't refuse, capiche?",
+    "Nothing personal, capiche?",
+    "I run this station now, see? Nyeh!"
+  ]
+}

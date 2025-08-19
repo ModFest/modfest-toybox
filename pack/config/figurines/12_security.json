@@ -1,0 +1,21 @@
+{
+  "name": "security officer",
+  "description": "A figurine depicting a Security Officer holding a stunbaton, ready to defend the station.",
+  "category": "Security",
+  "number": "04",
+  "identifier": "security",
+  "rarity": "Common",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABvUExURSEgImZlYVRTUC8uMUJBRFh7jL9wmExwgf/Klfe9ff+kSGhoaMEtMP+AQEpKSioqKm5ubp8qLlwfJMBhMj08PFlZWVxbW0lHR0FAQB0dHT8/PxgXGX0oLA0NDTY2NnBAKpNXO7FtSb95VMyGXQAAACSlqNAAAAAldFJOU////////////////////////////////////////////////wA/z0JPAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAv0lEQVQ4T92O2RKCMAwAAy0iEixUkaNy2v//RgtkRtJx8N3tQ5pk0wbsD/5SAPAneA5BGPgjFFdASCmFN0NxBaT7Qh4IEqJTBJKyDSYIiM8xCMo2vPeSS8IrXEjR7YCptdmVKlwQocqLXKHObhmVuHBHVZalwn2fCY9K1XWtqmbX5zu0xmhjWso2mGA1Imq6E55QPItDoevdoTvBhK5vusYzdsIwDOM0TaOLVFn4CK47vxZm51DNwXf4wj8I1r4BtuGFgR1PQIYAAAAASUVORK5CYII=",
+  "voicelines": [
+    "I am the law!",
+    "You have violated article 1984.",
+    "Whenever I get bored I use the clown as target practice.",
+    "You have two rights: to remain silent and to cry about it.",
+    "Harmbaton? It sure as hell harms!",
+    "Space law? Never heard of it.",
+    "Random search! Hand it over.",
+    "I love donuts.",
+    "Greytide this, motherfucker.",
+    "Do not resist."
+  ]
+}

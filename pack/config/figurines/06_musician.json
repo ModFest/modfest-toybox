@@ -1,0 +1,16 @@
+{
+  "name": "musician",
+  "description": "A figurine depicting a Musician, his music was electrifying.",
+  "category": "Service",
+  "number": "04",
+  "identifier": "musician",
+  "rarity": "Common",
+  "texture": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABp0lEQVRYhe2Uv0sCYRzGH6OoSO/IoLhOMrWEJEmotXCTW3KoPSJobmqLwLmhf0AaHMshIXBoCFoSCvpFwVXaG6goVHR3UtvbUL2JQXivVkP3We59X77v93neLw8HWFhYWPwxNs57tEl9uC7WijfUr5XDwJuL7PGnqjfE24ZPW5Ikmkwm6Wxkiq3x/WSax1UqTj9MVE722fr93DRc4blKxWm/2w/9vghHj4QCUTE8vcAdRFM4RZkqikL1ikGdokz1ikEVRaFOUeaaQItZ8YlgFAAwE1nGTnoLM5FlAMBEMAoeE6YMZBIxFMsq2y/OrbB1sawik4iZ1TdnYGh0HAebq0yw+nuaXkO/2/+zBmzekK1AVBBC4PK14UzdhcvXBkIIrs+P0DU2aTqIXMmtzgIAHJ5t4+Epz9WL+09YLKvIly4h943wtgDQwARqz35tAp5BLxUEEZr2BMPQYLcLEAQRotZOc7fZ5mZgI5frmPd4XgBgKRxgr/b1dWOgV2B1d2UNN6VHtl/fu6jbSF2FS+EA/RAV7F1wODq/1Oj6MzSjwsyYMWFh8b95BZmhntoBKfsoAAAADmVYSWZNTQAqAAAACAAAAAAAAADSU5MAAAAASUVORK5CYII=",
+  "voicelines": [
+    "Never gonna give you up!",
+    "Never gonna let you down!",
+    "Music is an art.",
+    "Thank you, I'll be here all night.",
+    "I'm a one man band."
+  ]
+}
