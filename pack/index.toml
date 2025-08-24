@@ -276,6 +276,10 @@ file = "mods/defaulted-hotkeys.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/demobox.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dontdothat.pw.toml"
 metafile = true
 
