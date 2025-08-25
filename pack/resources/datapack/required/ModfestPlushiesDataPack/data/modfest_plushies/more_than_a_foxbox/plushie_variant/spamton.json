@@ -1,0 +1,11 @@
+{
+	"mob_sounds": {
+		"sound_id": "modfest_plushies:spamton"
+	},
+	"poses": {
+		"sit": "modfest_plushies:more_than_a_foxbox/spamton",
+		"stand": "modfest_plushies:more_than_a_foxbox/spamton",
+		"lay": "modfest_plushies:more_than_a_foxbox/spamton",
+		"box": "modfest_plushies:more_than_a_foxbox/spamton"
+	}
+}

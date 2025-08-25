@@ -1,0 +1,16 @@
+{
+	"type": "more_than_a_foxbox:sewing",
+
+	"shell": "pink_wool",
+	"filler": "#more_than_a_foxbox:polyfill",
+	"essence": "yellow_wool",
+
+	"result": {
+		"id": "more_than_a_foxbox:plushie",
+		"components": {
+			"more_than_a_foxbox:plushie": {
+				"variant": "modfest_plushies:spamton"
+			}
+		}
+	}
+}
