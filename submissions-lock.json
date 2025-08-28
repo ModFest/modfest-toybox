@@ -792,7 +792,7 @@
 	},
 	"kaleidoscopes": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": true
 		},
 		"files": {
@@ -859,7 +859,7 @@
 	},
 	"losing-my-marbles": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": true
 		},
 		"files": {
@@ -906,14 +906,14 @@
 				"download": {
 					"hash": "3bf5b6e528f98f4a610e40f7f4203b73235efaedc26563236748f15e71051f89e83e06dd66ee9edbedb4ba0778de97d24d6a389430399811af6c93c314ede209",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/YrqkULLr/versions/Cn3QAHjh/maglev-0.3.1%2Bmodfest.jar"
+					"url": "https://cdn.modrinth.com/data/YrqkULLr/versions/UHe7M6CD/maglev-0.3.1%2Bmodfest.jar"
 				},
 				"filename": "maglev-0.3.1+modfest.jar",
 				"name": "Maglev",
 				"side": "both"
 			}
 		},
-		"key": "1d3a42c84c7cc660a2b53a6dfda648393cf0b746a3436f2fb84234c0537daea4"
+		"key": "54cbcb9256e02ab5786bed03343f0f2339d9dd378d5912286ba567e6883a1638"
 	},
 	"manikin": {
 		"checks": {
@@ -1166,16 +1166,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "d8e8188982bf964571a11b94e7197ef9ac731fadf8f54e922e443f14d7fe65dec26b3a68ead029a7c1a8170cb45e83cc67fdb02659722c1dd692f6e90ab92b6d",
+					"hash": "e03cba70ce62aefd38781229f2f41140d97b54727a6f3cfe8f5831ef21798887d623698cf6401a4a3b459540ec99ed8df37631490b0e090c02ad3715d56469c9",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/WjKN5gxJ/occmy-V.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/QMWO2RU5/occmy-W_.jar"
 				},
-				"filename": "occmy-V.jar",
+				"filename": "occmy-W_.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "48c28486889302e24894afb8ed8cd2551d661130c14f1cc9bd646b52449769a4"
+		"key": "6385fb36663bf1b3a81cf30ce346c8324e4c2bbbdaec991e03861768f53d310a"
 	},
 	"paintbrush-mod": {
 		"checks": {
@@ -1527,7 +1527,7 @@
 	"telebaton": {
 		"checks": {
 			"claimed": true,
-			"tested": false
+			"tested": true
 		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
@@ -1724,18 +1724,28 @@
 			"tested": false
 		},
 		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "af781f8e06b1fff86c0b7055c9e696552555d5fbc71298447f816689756fe598b2ced182fbf6687c9457472352118e5052fa66de116e7a818584fd8f6e523a7d",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/jjBL6OsN/fabric-api-0.132.0%2B1.21.8.jar"
+				},
+				"filename": "fabric-api-0.132.0+1.21.8.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
 			"mods/wabbajack-staff.pw.toml": {
 				"download": {
-					"hash": "6460824b56f7fb63e5aadc49aa05707e29894104a170a03e463807bc5e42b21621554180371da3d61bcd3590fe241d7674cbe450c757c2780fa4d35f91f20929",
+					"hash": "9d9903741cede98883ebb2010f91926635baf47c9bf8fbd93ed94826d9cae1a3d87447d2f1f5e7ea57cad1a3367c0d7bd95a1700d91113e87f1dd48da2a4043b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/FjucZ2ln/versions/YbztwK4i/wabbajack-1.0.0.jar"
+					"url": "https://cdn.modrinth.com/data/FjucZ2ln/versions/TrsyTAsa/wabbajack-1.1.0.jar"
 				},
-				"filename": "wabbajack-1.0.0.jar",
+				"filename": "wabbajack-1.1.0.jar",
 				"name": "Wabbajack",
 				"side": "both"
 			}
 		},
-		"key": "fee9791043edce934089cad61a6c50270366532bde4e72ad761ff03400f6831f"
+		"key": "a5982e3a5dfb64cd339a209b92d6f4b44426b5bfaa84c33096f08eae8481a0ac"
 	},
 	"windup-music-box": {
 		"checks": {
@@ -1803,15 +1813,15 @@
 			},
 			"mods/zip-to-it.pw.toml": {
 				"download": {
-					"hash": "8ecb324c9b323033c1e3cbdbc9fad6b593297b29fb9ca314ebfbe429546b249e34dc14c97d859daa9d3b4f5dca6b67d02a81aa3078d3796747b5cf4b91fadb85",
+					"hash": "bf2111c51cff4162c4b640fb01461b9212007a1b8f94e225b55d3d4495eaf081e676dd38d2899600456aeeda60977c8d51fba33075fdadc42d5872fc5bd98e49",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/47S4akEa/versions/9oojbQUK/zip-to-it-1.0.1.jar"
+					"url": "https://cdn.modrinth.com/data/47S4akEa/versions/TLbNtq7U/zip-to-it-1.0.2.jar"
 				},
-				"filename": "zip-to-it-1.0.1.jar",
+				"filename": "zip-to-it-1.0.2.jar",
 				"name": "Zip To It!",
 				"side": "both"
 			}
 		},
-		"key": "a63b808a8b5a02f1fdf4881662a06178c868102666d837f01f563b1773eb4282"
+		"key": "6e83861dd15ef19989b387fea01c0847a657825e466b5b9644f085491b93bd4e"
 	}
 }
