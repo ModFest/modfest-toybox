@@ -1,0 +1,22 @@
+{
+	"spamton": {
+		"subtitle": "subtitles.modfest_plushies.spamton",
+		"sounds": [
+			{
+				"name": "modfest_plushies:nows_your_chance_to_1"
+			},
+			{
+				"name": "modfest_plushies:nows_your_chance_to_2"
+			},
+			{
+				"name": "modfest_plushies:nows_your_chance_to_3"
+			},
+			{
+				"name": "modfest_plushies:nows_your_chance_to_4"
+			},
+			{
+				"name": "modfest_plushies:nows_your_chance_to_5"
+			}
+		]
+	}
+}

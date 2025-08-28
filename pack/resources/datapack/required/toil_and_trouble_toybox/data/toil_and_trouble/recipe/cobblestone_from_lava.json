@@ -1,0 +1,12 @@
+{
+  "type": "toil_and_trouble:brewing",
+  "reagent": "minecraft:cobblestone",
+  "potion": {
+    "id": "minecraft:air"
+  },
+  "result": {
+    "id": "toil_and_trouble:lava",
+    "amount": 3
+  },
+  "requires_heat": true
+}

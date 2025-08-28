@@ -1,0 +1,11 @@
+{
+  "type": "toil_and_trouble:dipping",
+  "reagent": "minecraft:potion",
+  "potion": {
+    "id": "toil_and_trouble:lava"
+  },
+  "result": {
+    "id": "minecraft:obsidian",
+    "amount": 1
+  }
+}

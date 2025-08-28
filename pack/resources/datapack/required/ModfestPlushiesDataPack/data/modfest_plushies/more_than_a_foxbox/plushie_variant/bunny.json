@@ -1,0 +1,9 @@
+{
+	"mob_sounds": "entity.rabbit.ambient",
+	"poses": {
+		"sit": "modfest_plushies:more_than_a_foxbox/bunny/sit",
+		"stand": "modfest_plushies:more_than_a_foxbox/bunny/stand",
+		"lay": "modfest_plushies:more_than_a_foxbox/bunny/lay",
+		"box": "modfest_plushies:more_than_a_foxbox/bunny/box"
+	}
+}

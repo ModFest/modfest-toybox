@@ -1,0 +1,18 @@
+{
+	"type": "more_than_a_foxbox:sewing",
+
+	"shell": "pink_wool",
+	"filler": "#more_than_a_foxbox:polyfill",
+	"essence": "yellow_wool",
+	"upgrade": "more_than_a_foxbox:squeaker",
+
+	"result": {
+		"id": "more_than_a_foxbox:plushie",
+		"components": {
+			"more_than_a_foxbox:plushie": {
+				"variant": "modfest_plushies:spamton",
+				"sound_type": "squeaker"
+			}
+		}
+	}
+}

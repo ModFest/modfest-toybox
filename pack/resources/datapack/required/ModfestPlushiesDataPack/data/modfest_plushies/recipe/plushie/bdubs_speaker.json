@@ -1,0 +1,18 @@
+{
+	"type": "more_than_a_foxbox:sewing",
+
+	"shell": "white_wool",
+	"filler": "#more_than_a_foxbox:polyfill",
+	"essence": "diorite",
+	"upgrade": "more_than_a_foxbox:speaker",
+
+	"result": {
+		"id": "more_than_a_foxbox:plushie",
+		"components": {
+			"more_than_a_foxbox:plushie": {
+				"variant": "modfest_plushies:bdubs",
+				"sound_type": "speaker"
+			}
+		}
+	}
+}

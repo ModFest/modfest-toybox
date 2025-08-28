@@ -11,7 +11,7 @@ def ballotbox_options():
 	for submission in json.loads(requests.get(submissions_url).text):
 		option = {
 			"id": submission["id"],
-			"mod_id": submission["id"],
+			"mod_id": submission["mod_id"],
 			"name": submission["name"],
 			"description": submission["description"],
 			"platform": {

@@ -1,0 +1,9 @@
+{
+	"mob_sounds": "entity.player.hurt",
+	"poses": {
+		"sit": "modfest_plushies:more_than_a_foxbox/bdubs/sit",
+		"stand": "modfest_plushies:more_than_a_foxbox/bdubs/stand",
+		"lay": "modfest_plushies:more_than_a_foxbox/bdubs/lay",
+		"box": "modfest_plushies:more_than_a_foxbox/bdubs/box"
+	}
+}

@@ -1,30 +1,642 @@
 [
 	{
-		"id": "best_toy_themed",
-		"name": "Best Toy-Themed",
-		"description": "The best of the best!",
-		"type": "theme",
-		"limit": 8
+		"id": "windup-music-box",
+		"mod_id": "windup_music_box",
+		"name": "Wind-up Music Box",
+		"description": "Adds a wind-up music box. Made for ModFest: Toybox!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "1UK6vyVH"
+		}
 	},
 	{
-		"id": "funniest",
-		"name": "Funniest",
-		"description": "Mods with a great sense of humour.",
-		"type": "community",
-		"limit": 3
+		"id": "stickerbomb",
+		"mod_id": "stickerbomb",
+		"name": "StickerBomb!",
+		"description": "Add an *explosive* splash of colour to your Minecraft world with stickers! decorate your builds or graffiti your friends' with these sticky crowd favorites!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "7BqZ5FbI"
+		}
 	},
 	{
-		"id": "most_likely_to_use",
-		"name": "Most Likely to Use",
-		"description": "Essential, approachable mods for future packs.",
-		"type": "community",
-		"limit": 3
+		"id": "flying-frisbees",
+		"mod_id": "flying_frisbees",
+		"name": "Flying Frisbees",
+		"description": "Adds frisbees that can be thrown and played with!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "ml0TxaCD"
+		}
 	},
 	{
-		"id": "most_innovative",
-		"name": "Most Innovative",
-		"description": "Mods pushing the medium with fresh, surprising ideas.",
-		"type": "community",
-		"limit": 3
+		"id": "spacey-figurines",
+		"mod_id": "figurines",
+		"name": "Spacey Figurines",
+		"description": "A simple figurines mod, made for ModFest: Toybox.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "EaFywRSG"
+		}
+	},
+	{
+		"id": "wabbajack-staff",
+		"mod_id": "wabbajack",
+		"name": "Wabbajack",
+		"description": "Sheogorath's infamous artifact, brought into Minecraft",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "FjucZ2ln"
+		}
+	},
+	{
+		"id": "losing-my-marbles",
+		"mod_id": "losing_my_marbles",
+		"name": "Losing My Marbles!",
+		"description": "Build your very own Marble Run with plenty of unique marbles and track pieces. Fully data-driven!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "eIqwWXyi"
+		}
+	},
+	{
+		"id": "paintbrush-mod",
+		"mod_id": "paintbrush",
+		"name": "Paintbrush",
+		"description": "Peacefully paint your world using brushes (and paint guns)",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "4x1BLrza"
+		}
+	},
+	{
+		"id": "five-guys-burgers-and-fries",
+		"mod_id": "fiveguysburgersandfries",
+		"name": "5 Guys (Burgers and Fries)",
+		"description": "Adds a burger and fries worth five guys when you eat it.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "f7ohpuI6"
+		}
+	},
+	{
+		"id": "toil-and-trouble",
+		"mod_id": "toil_and_trouble",
+		"name": "Toil and Trouble",
+		"description": "Empower Cauldrons with additional functionality, including the ability to brew Potions.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "67iT29W2"
+		}
+	},
+	{
+		"id": "chiseled-mod",
+		"mod_id": "chiseled",
+		"name": "Chiseled",
+		"description": "Re-shape any [modded] blocks in a vanilla friendly way!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "gqkgmxW8"
+		}
+	},
+	{
+		"id": "potato-head",
+		"mod_id": "potatohead",
+		"name": "Mr. Potato Head",
+		"description": "Build your own Mr. Potato Head that will enhance you when sitting in your offhand!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "J3SheaLo"
+		}
+	},
+	{
+		"id": "hero-statue",
+		"mod_id": "hero-statue",
+		"name": "Hero Statue",
+		"description": "Adds the Hero Statue block, which can hold an item, and be posed using redstone.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "ufuoq5Xq"
+		}
+	},
+	{
+		"id": "diy-die",
+		"mod_id": "diy-die",
+		"name": "DIY-Die",
+		"description": "Adds dice in Minecraft",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "ZB36W58Z"
+		}
+	},
+	{
+		"id": "toy-water-gun",
+		"mod_id": "toywatergun",
+		"name": "Toy Water Gun",
+		"description": "Adds a toy water gun that can shoot either water, lava or powder snow",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "LMa5KG8r"
+		}
+	},
+	{
+		"id": "spring-boots",
+		"mod_id": "spring_boots",
+		"name": "Spring Boots",
+		"description": "Adds spring boots",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "IzjOs40e"
+		}
+	},
+	{
+		"id": "blowing-bubbles",
+		"mod_id": "blowing-bubbles",
+		"name": "Blowing Bubbles",
+		"description": "Colorful bubbles that can you can use as platforms, blocks, and more",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "Bezt1FXL"
+		}
+	},
+	{
+		"id": "boing!",
+		"mod_id": "boing",
+		"name": "Boing!",
+		"description": "A Mod adding rubber swords to minecraft made for modfest: toybox",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "iheh58gJ"
+		}
+	},
+	{
+		"id": "grand-indestructible-kingdom",
+		"mod_id": "gik",
+		"name": "Grand Indestructible Kingdom",
+		"description": "The strongest fortress in the entire world!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "G2UTDJ39"
+		}
+	},
+	{
+		"id": "crazy-pogo",
+		"mod_id": "crazy_pogo",
+		"name": "Crazy Pogo",
+		"description": "Adds a pogo stick that lets you bounce off of surfaces",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "usSPHjzM"
+		}
+	},
+	{
+		"id": "hattened",
+		"mod_id": "hattened",
+		"name": "The Mad Hatter",
+		"description": "Submission for ModFest 2025: Toybox. Adds a magical hat that can store near-endless items and retrieve them.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "W18bTipg"
+		}
+	},
+	{
+		"id": "simply-slingshot",
+		"mod_id": "simply-slingshot",
+		"name": "Simply Slingshot",
+		"description": "Slingshot and multiple enchantments for it, making it a weapon and a tool. Damage entities, place and break blocks, throw items to your far away friend!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "msOhd0jl"
+		}
+	},
+	{
+		"id": "mob-mystery-dollhouse",
+		"mod_id": "mmdollhouse",
+		"name": "Mob Mystery Dollhouse",
+		"description": "A \"murder mystery\" minigame (that can be run entirely serverside, or on your own!)",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "59noaiUf"
+		}
+	},
+	{
+		"id": "confetti-cannon",
+		"mod_id": "confetticannon",
+		"name": "Confetti Cannon",
+		"description": "This mods adds the Confetti Cannon. It deals knockback, so punch your friends around!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "UTT8ijPB"
+		}
+	},
+	{
+		"id": "toy-bricks",
+		"mod_id": "toy_bricks",
+		"name": "Toy Bricks",
+		"description": "A Toy Brick themed blockset - Made for ModFest Toybox",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "mEnssXmJ"
+		}
+	},
+	{
+		"id": "copper-cauldron",
+		"mod_id": "copper_cauldron",
+		"name": "Copper Cauldron",
+		"description": "Adds a copper cauldron, used for various recipes",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "7tZNLHmT"
+		}
+	},
+	{
+		"id": "notenoughminecraft",
+		"mod_id": "not-enough-minecraft",
+		"name": "NotEnoughMinecraft",
+		"description": "Did you ever want to play Minecraft inside of Minecraft without installing any mods on the client? NO??? Anyways, now you can!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "sbnEegTp"
+		}
+	},
+	{
+		"id": "volo-volare",
+		"mod_id": "volare",
+		"name": "Volo Volare",
+		"description": "Step into a model glider and soar into a world of wonder.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "6vF0WWqw"
+		}
+	},
+	{
+		"id": "kaleidoscopes",
+		"mod_id": "kaleidoscopes",
+		"name": "Kaleidoscopes",
+		"description": "Adds kaleidoscopes! Fun visuals! Made for the 1.21.8 ModFest, Toybox!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "SmbOjVpX"
+		}
+	},
+	{
+		"id": "lifelike",
+		"mod_id": "lifelike",
+		"name": "Lifelike",
+		"description": "Cellular Automata simulators! For ModFest: Toybox",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "KBupwLZ7"
+		}
+	},
+	{
+		"id": "mica-runes",
+		"mod_id": "mica",
+		"name": "Mica",
+		"description": "Mica is a magic mod consisting of individual runes that can be combined to great potential.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "venPrYVA"
+		}
+	},
+	{
+		"id": "power-towel",
+		"mod_id": "power_towel",
+		"name": "Power Towel",
+		"description": "End-game weapon that can transform between multiple forms",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "8sO9OhDE"
+		}
+	},
+	{
+		"id": "dominoes",
+		"mod_id": "dominoes",
+		"name": "Dominoes",
+		"description": "Adds a collapsing domino block!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "2iv3rshg"
+		}
+	},
+	{
+		"id": "rc-toys",
+		"mod_id": "rctoys",
+		"name": "RC Toys",
+		"description": "Remote controlled toys (currently just a car) in modern Minecraft!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "9YKCmF3w"
+		}
+	},
+	{
+		"id": "playful-planes",
+		"mod_id": "playful_planes",
+		"name": "Playful Planes",
+		"description": "Throwable Paper Planes with a few surprises",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "uhBXuNH2"
+		}
+	},
+	{
+		"id": "maglev-minecarts",
+		"mod_id": "maglev",
+		"name": "Maglev",
+		"description": "A new era of minecart technology",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "YrqkULLr"
+		}
+	},
+	{
+		"id": "sword-of-legend",
+		"mod_id": "sword_of_legend",
+		"name": "The Sword of Legend",
+		"description": "Adds four cool looking sticks to fight with.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "cUWMNzMh"
+		}
+	},
+	{
+		"id": "action-mobs",
+		"mod_id": "action_mobs",
+		"name": "Action Mobs",
+		"description": "A mod that adds pose-able mob statues to Minecraft.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "8vB3SrXr"
+		}
+	},
+	{
+		"id": "be-a-doll",
+		"mod_id": "be_a_doll",
+		"name": "Would you be a doll?",
+		"description": "Become (slightly moreso) a doll! (a little thing that can ride around on others' shoulders, among other small tricks.)",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "MAd0Z2MD"
+		}
+	},
+	{
+		"id": "gunner",
+		"mod_id": "gunner",
+		"name": "Confetti Gunner",
+		"description": "Like guns? Like confetti? This mods adds just that, alongside fun enchantments like recoil.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "jEJSQV81"
+		}
+	},
+	{
+		"id": "confettinator",
+		"mod_id": "confettinator",
+		"name": "Confettinator",
+		"description": "A block for dispensing confetti and fireworks with color configurable by redstone.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "XNEkJT7L"
+		}
+	},
+	{
+		"id": "evl-toys",
+		"mod_id": "scoot",
+		"name": "EVL Toys",
+		"description": "Adds in a brand new toy, Mr Scoot! Very heavy WIP but uploading for ModFest: Toybox",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "6tH37PX2"
+		}
+	},
+	{
+		"id": "occipital-metonymy",
+		"mod_id": "occmy",
+		"name": "Occipital Metonymy",
+		"description": "physical homology",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "AswI3srw"
+		}
+	},
+	{
+		"id": "showtime",
+		"mod_id": "showtime",
+		"name": "Showtime",
+		"description": "Throw balls, bounce around, and just generally make a mess. Made for ModFest: Toybox.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "t5rdXZkZ"
+		}
+	},
+	{
+		"id": "grow-your-crystal",
+		"mod_id": "growyourcrystal",
+		"name": "Grow Your Crystal",
+		"description": "This mod adds a way to grow your own crystal blocks, with customizable colors and effects",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "rn1T5YER"
+		}
+	},
+	{
+		"id": "totoro_top",
+		"mod_id": "totoro_top",
+		"name": "Totoro's Top",
+		"description": "Bringing My Neighbor Totoro's Magical Top to Modfest: Toybox",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "wSGrIhNF"
+		}
+	},
+	{
+		"id": "newinbox",
+		"mod_id": "new_in_box",
+		"name": "New in Box!",
+		"description": "Sometimes, the box is more fun than the toy inside.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "fXyFGm8T"
+		}
+	},
+	{
+		"id": "surpuncher",
+		"mod_id": "surpuncher",
+		"name": "Surpuncher",
+		"description": "Adds extendable fists to Minecraft. I bring the punch!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "AlvIXaBX"
+		}
+	},
+	{
+		"id": "hyper-silt",
+		"mod_id": "hyper_silt",
+		"name": "Hyper Silt",
+		"description": "Hyper Silt lets you BLJ",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "894ENCfi"
+		}
+	},
+	{
+		"id": "jack-in-the-box",
+		"mod_id": "jack_in_the_box",
+		"name": "Jack In The Box",
+		"description": "A prank mod made for Modfest: Toybox",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "wOJqgaNV"
+		}
+	},
+	{
+		"id": "manikin",
+		"mod_id": "mannequin",
+		"name": "Mannequin",
+		"description": "Become a doll.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "XZ5wno5a"
+		}
+	},
+	{
+		"id": "densha-no-omocha",
+		"mod_id": "densha-no-omocha",
+		"name": "Densha no Omocha",
+		"description": "An experimental version of an upcoming train mod. Adds toy trains to Minecraft!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "penQLloD"
+		}
+	},
+	{
+		"id": "citsabmob",
+		"mod_id": "citsabmob",
+		"name": "citsabmoB",
+		"description": "Bombastic 2: The Sequel Nobody Asked For",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "TNkUvcmR"
+		}
+	},
+	{
+		"id": "zip-to-it",
+		"mod_id": "ziptoit",
+		"name": "Zip To It!",
+		"description": "Zip across the lands in style with a Zippy Sticky Hand! Made for ModFest Toybox!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "47S4akEa"
+		}
+	},
+	{
+		"id": "more_than_a_foxbox",
+		"mod_id": "more_than_a_foxbox",
+		"name": "More Than A Foxbox",
+		"description": "Much more than just a fox in a box! More Than A Foxbox features familiar friends with configurable poses and noises.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "OQ7P6zcP"
+		}
+	},
+	{
+		"id": "yamaxanadu",
+		"mod_id": "yamaxanadu",
+		"name": "yamaxanadu",
+		"description": "A mod about action at a distance.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "oPQGWtHJ"
+		}
+	},
+	{
+		"id": "dronebox",
+		"mod_id": "dronebox",
+		"name": "Dronebox",
+		"description": "A mod that adds drones to minecraft created for modfest: toybox",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "aQJwuluL"
+		}
+	},
+	{
+		"id": "bloub4mc",
+		"mod_id": "bloub4mc",
+		"name": "Bloub 4 MC",
+		"description": "Adds a physics toy to the inventory screen",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "Xx7t493Q"
+		}
+	},
+	{
+		"id": "eye_of_dreams",
+		"mod_id": "eye_of_dreams",
+		"name": "Eye of Dreams",
+		"description": "When night falls, new powers awake. Adds the Eye of Dreams to Minecraft",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "4hpv2SxP"
+		}
+	},
+	{
+		"id": "not-a-toy",
+		"mod_id": "notatoy",
+		"name": "Not A Toy",
+		"description": "Adds things that are DEFINITELY not toys.\nCreated for Modfest Toybox",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "yMwktkWM"
+		}
+	},
+	{
+		"id": "telebaton",
+		"mod_id": "telebaton",
+		"name": "Telebaton",
+		"description": "Adds teleportation batons to swap places with friends!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "3cgBSLpS"
+		}
+	},
+	{
+		"id": "laseredstone",
+		"mod_id": "laseredstone",
+		"name": "Laseredstone",
+		"description": "Redstone but we use lasers to transfer signals",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "jlbb1hKs"
+		}
+	},
+	{
+		"id": "slotcars",
+		"mod_id": "slotcars",
+		"name": "Slot Cars",
+		"description": "Build and race on slot car tracks with your friends!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "aT6FRtq1"
+		}
+	},
+	{
+		"id": "chorus-honey",
+		"mod_id": "chorus_honey",
+		"name": "Chorus Honey",
+		"description": "Mix Chorus Fruit and Honey to ascend to new heights!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "yyVwIsNC"
+		}
+	},
+	{
+		"id": "googun",
+		"mod_id": "googun",
+		"name": "Googun",
+		"description": "Adds several new types of Googun\u00e2\u201e\u00a2 Goo that can be shot onto terrain, changing how you traverse the world! Inspired by Portal 2's Gels.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "uDTsPbdZ"
+		}
 	}
 ]

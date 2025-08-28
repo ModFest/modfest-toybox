@@ -1,0 +1,9 @@
+{
+	"mob_sounds": "entity.puffer_fish.flop",
+	"poses": {
+		"sit": "modfest_plushies:more_than_a_foxbox/shrimp/sit",
+		"stand": "modfest_plushies:more_than_a_foxbox/shrimp/stand",
+		"lay": "modfest_plushies:more_than_a_foxbox/shrimp/lay",
+		"box": "modfest_plushies:more_than_a_foxbox/shrimp/box"
+	}
+}
