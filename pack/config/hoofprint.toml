@@ -9,7 +9,7 @@ lighting = true
 # default: true
 showOffline = false
 # default: true
-renderBorder = true
+renderBorder = false
 # default: true
 renderOutsideBorder = false
 # default: false

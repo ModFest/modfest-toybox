@@ -32,10 +32,10 @@ def warps():
 		if not booth:
 			continue
 		warp_id = sub(r"[^a-zA-Z0-9 ]", "", submission["name"].lower())
-		safe_id = sub(r"[^a-zA-Z0-9_]", "", submission["id"])
+		safe_id = sub(r"[^a-zA-Z0-9_]", "", submission["id"].replace("-", "_"))
 		print(f"warps remove \"{warp_id}\"") # patbox pls
 		print(f"warps create \"{warp_id}\" \"{submission["name"]}\" {booth["item_icon"] or "minecraft:gold_nugget"} {booth["warp"]["x"]} {booth["warp"]["y"]} {booth["warp"]["z"]} {dir_yaw[booth["warp"]["direction"]]} 0")
-		print(f"landmarks new id modfest:booth/{safe_id} {booth["marker_pos"]["x"]} 240 {booth["marker_pos"]["z"]} {booth["item_icon"] or "minecraft:gold_nugget"} \"{submission["name"]}\" \"♦{booth["shards"] or "?"} ⧗{booth["minutes_to_complete"] or "?"}\\n{"\\n".join(wrap(submission["description"].replace("\"", "\\\""), width=40))}\"")
+		print(f"landmarks new id modfest:booth/{safe_id} {booth["marker_pos"]["x"]} 240 {booth["marker_pos"]["z"]} {booth["item_icon"] or "minecraft:gold_nugget"} \"{submission["name"]}\" \"♦{booth["shards"] or "?"} ⧗{booth["minutes_to_complete"] or "?"}m\\n{"\\n".join(wrap(submission["description"].replace("\"", "\\\""), width=40))}\"")
 
 
 if __name__ == "__main__":
