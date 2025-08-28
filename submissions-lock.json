@@ -1778,7 +1778,7 @@
 	},
 	"yamaxanadu": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": false
 		},
 		"files": {

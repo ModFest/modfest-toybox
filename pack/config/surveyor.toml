@@ -35,7 +35,7 @@ lazyClientUpdating = false
 	# SERVER sends server-known data, GROUP sends group-known data, SOLO sends player-known data, NONE sends no data
 	# options: NONE, SOLO, GROUP, SERVER
 	# default: GROUP
-	terrain = "SERVER"
+	terrain = "NONE"
 	# How much structure data to send to clients
 	# SERVER sends server-known data, GROUP sends group-known data, SOLO sends player-known data, NONE sends no data
 	# When NONE, clients will never see structures
