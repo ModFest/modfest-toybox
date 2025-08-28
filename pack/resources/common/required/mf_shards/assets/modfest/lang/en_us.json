@@ -11,6 +11,9 @@
 
 	"gui.scattered_shards.tablet.click_on_a_shard": "Click on a vPet to the left",
 
+	"gui.scattered_shards.tablet.label.progress.started": "%s Booths Visited",
+	"gui.scattered_shards.tablet.label.progress.total": "%s vPets Collected",
+
 	"shard_type.modfest.visitor.description": "First-Generation vPet",
 	"shard_type.modfest.bonus_1.description": "Step-Counting vPet",
 	"shard_type.modfest.bonus_2.description": "Color-Screen vPet",

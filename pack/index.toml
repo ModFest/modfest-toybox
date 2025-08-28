@@ -288,7 +288,7 @@ file = "mods/drogstyle.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ears-platform-modern-fabric-2.0.0.jar"
+file = "mods/ears-platform-modern-fabric-2.0.0-modgardenfest.1.jar"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
@@ -439,7 +439,16 @@ file = "options.txt"
 file = "resources/common/required/mf_music/assets/minecraft/sounds.json"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/advent.json"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/items/music/antiquity.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/booyah.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/childhood_promises.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/items/music/hand_me_down.json"
@@ -457,6 +466,9 @@ file = "resources/common/required/mf_music/assets/modfest/items/music/ivory_thro
 file = "resources/common/required/mf_music/assets/modfest/items/music/notholirion.json"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/the_six_sides_of_the_dice.json"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/items/music/three.json"
 
 [[files]]
@@ -466,7 +478,16 @@ file = "resources/common/required/mf_music/assets/modfest/items/music/timeout.js
 file = "resources/common/required/mf_music/assets/modfest/lang/en_us.json"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/advent.json"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/models/item/music/antiquity.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/booyah.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/childhood_promises.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/models/item/music/hand_me_down.json"
@@ -484,6 +505,9 @@ file = "resources/common/required/mf_music/assets/modfest/models/item/music/ivor
 file = "resources/common/required/mf_music/assets/modfest/models/item/music/notholirion.json"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/the_six_sides_of_the_dice.json"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/models/item/music/three.json"
 
 [[files]]
@@ -493,7 +517,16 @@ file = "resources/common/required/mf_music/assets/modfest/models/item/music/time
 file = "resources/common/required/mf_music/assets/modfest/sounds.json"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/advent.ogg"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/antiquity.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/booyah.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/childhood_promises.ogg"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/hand_me_down.ogg"
@@ -511,7 +544,16 @@ file = "resources/common/required/mf_music/assets/modfest/sounds/music/ivory_thr
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/notholirion.ogg"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/advent.ogg"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/antiquity.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/booyah.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/childhood_promises.ogg"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/hand_me_down.ogg"
@@ -529,7 +571,7 @@ file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/iv
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/notholirion.ogg"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/prologue.ogg"
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/the_six_sides_of_the_dice.ogg"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/three.ogg"
@@ -538,13 +580,25 @@ file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/th
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/timeout.ogg"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/the_six_sides_of_the_dice.ogg"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/three.ogg"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/timeout.ogg"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/advent.png"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/antiquity.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/booyah.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/childhood_promises.png"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/hand_me_down.png"
@@ -562,13 +616,25 @@ file = "resources/common/required/mf_music/assets/modfest/textures/item/music/iv
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/notholirion.png"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/the_six_sides_of_the_dice.png"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/three.png"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/timeout.png"
 
 [[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/advent.json"
+
+[[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/antiquity.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/booyah.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/childhood_promises.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/hand_me_down.json"
@@ -586,7 +652,16 @@ file = "resources/common/required/mf_music/data/modfest/jukebox_song/ivory_thron
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/notholirion.json"
 
 [[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/advent.json"
+
+[[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/antiquity.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/booyah.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/childhood_promises.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/hand_me_down.json"
@@ -604,13 +679,16 @@ file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/ivor
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/notholirion.json"
 
 [[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/prologue.json"
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/the_six_sides_of_the_dice.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/three.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/timeout.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/the_six_sides_of_the_dice.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/three.json"
@@ -664,12 +742,6 @@ file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/b
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_3_mini_front.png"
 
 [[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/mini_outline.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/mini_outline_slight.png"
-
-[[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/visitor_backing.png"
 
 [[files]]
@@ -682,10 +754,49 @@ file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/v
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/visitor_mini_front.png"
 
 [[files]]
+file = "resources/common/required/mf_shards/assets/scattered_shards/textures/gui/shards/mini_outline.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/scattered_shards/textures/gui/shards/mini_outline_slight.png"
+
+[[files]]
 file = "resources/common/required/mf_shards/data/scattered_shards/shard_type/types.json"
 
 [[files]]
 file = "resources/common/required/mf_shards/pack.mcmeta"
+
+[[files]]
+file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushies/more_than_a_foxbox/plushie_variant/bdubs.json"
+
+[[files]]
+file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushies/more_than_a_foxbox/plushie_variant/bunny.json"
+
+[[files]]
+file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushies/more_than_a_foxbox/plushie_variant/shrimp.json"
+
+[[files]]
+file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushies/more_than_a_foxbox/plushie_variant/spamton.json"
+
+[[files]]
+file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushies/recipe/plushie/bdubs.json"
+
+[[files]]
+file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushies/recipe/plushie/bdubs_speaker.json"
+
+[[files]]
+file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushies/recipe/plushie/bdubs_squeaker.json"
+
+[[files]]
+file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushies/recipe/plushie/spamton.json"
+
+[[files]]
+file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushies/recipe/plushie/spamton_speaker.json"
+
+[[files]]
+file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushies/recipe/plushie/spamton_squeaker.json"
+
+[[files]]
+file = "resources/datapack/required/ModfestPlushiesDataPack/pack.mcmeta"
 
 [[files]]
 file = "resources/datapack/required/mf_ballotbox/data/ballotbox/ballot/categories.json"
@@ -712,13 +823,121 @@ file = "resources/datapack/required/mf_fireblanket/data/fireblanket/tags/item/it
 file = "resources/datapack/required/mf_fireblanket/pack.mcmeta"
 
 [[files]]
+file = "resources/datapack/required/toil_and_trouble_toybox/data/toil_and_trouble/recipe/cobblestone_from_lava.json"
+
+[[files]]
+file = "resources/datapack/required/toil_and_trouble_toybox/data/toil_and_trouble/recipe/obsidian_from_lava.json"
+
+[[files]]
+file = "resources/datapack/required/toil_and_trouble_toybox/data/toil_and_trouble/recipe/obsidian_from_water.json"
+
+[[files]]
+file = "resources/datapack/required/toil_and_trouble_toybox/pack.mcmeta"
+
+[[files]]
 file = "resources/datapack/required/toybox_paintings/data/minecraft/tags/painting_variant/placeable.json"
 
 [[files]]
 file = "resources/datapack/required/toybox_paintings/data/toybox_paintings/painting_variant/bnuiy.json"
 
 [[files]]
+file = "resources/datapack/required/toybox_paintings/data/toybox_paintings/painting_variant/fantasia.json"
+
+[[files]]
+file = "resources/datapack/required/toybox_paintings/data/toybox_paintings/painting_variant/occipital_metonymy.json"
+
+[[files]]
+file = "resources/datapack/required/toybox_paintings/data/toybox_paintings/painting_variant/physical_homology.json"
+
+[[files]]
 file = "resources/datapack/required/toybox_paintings/pack.mcmeta"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/items/more_than_a_foxbox/bdubs.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/items/more_than_a_foxbox/bunny.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/items/more_than_a_foxbox/shrimp.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/items/more_than_a_foxbox/spamton.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/lang/en_us.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/bdubs/box.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/bdubs/lay.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/bdubs/sit.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/bdubs/stand.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/bunny/box.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/bunny/lay.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/bunny/sit.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/bunny/stand.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/shrimp/box.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/shrimp/lay.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/shrimp/sit.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/shrimp/stand.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/spamton.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/sounds.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/sounds/nows_your_chance_to_1.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/sounds/nows_your_chance_to_2.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/sounds/nows_your_chance_to_3.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/sounds/nows_your_chance_to_4.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/sounds/nows_your_chance_to_5.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/textures/item/plushie/bdubs.png"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/textures/item/plushie/bunny.png"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/textures/item/plushie/shrimp.png"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/textures/item/plushie/spamton.png"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/Unsanded-1.1.1-custom.zip"
@@ -899,6 +1118,15 @@ file = "resources/resourcepack/required/mf_emoji/styled_chat_emoji.json"
 
 [[files]]
 file = "resources/resourcepack/required/toybox_paintings/assets/toybox_paintings/textures/painting/bnuiy.png"
+
+[[files]]
+file = "resources/resourcepack/required/toybox_paintings/assets/toybox_paintings/textures/painting/fantasia.png"
+
+[[files]]
+file = "resources/resourcepack/required/toybox_paintings/assets/toybox_paintings/textures/painting/occipital_metonymy.png"
+
+[[files]]
+file = "resources/resourcepack/required/toybox_paintings/assets/toybox_paintings/textures/painting/physical_homology.png"
 
 [[files]]
 file = "resources/resourcepack/required/toybox_paintings/pack.mcmeta"
