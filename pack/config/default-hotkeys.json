@@ -1,292 +1,317 @@
 [
-  {
-    "comment": "area_lib.key.toggle_areas",
-    "translation": "Toggle area rendering",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "key.advancements",
-    "translation": "Advancements",
-    "key": "key.keyboard.l"
-  },
-  {
-    "comment": "key.attack",
-    "translation": "Attack/Destroy",
-    "key": "key.mouse.left"
-  },
-  {
-    "comment": "key.back",
-    "translation": "Walk Backward",
-    "key": "key.keyboard.s"
-  },
-  {
-    "comment": "key.ballotbox.open",
-    "translation": "Open Voting Screen",
-    "key": "key.keyboard.apostrophe"
-  },
-  {
-    "comment": "key.chat",
-    "translation": "Open Chat",
-    "key": "key.keyboard.t"
-  },
-  {
-    "comment": "key.command",
-    "translation": "Open Command",
-    "key": "key.keyboard.slash"
-  },
-  {
-    "comment": "key.disable_voice_chat",
-    "translation": "Disable Voice Chat",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "key.drop",
-    "translation": "Drop Selected Item",
-    "key": "key.keyboard.q"
-  },
-  {
-    "comment": "key.forward",
-    "translation": "Walk Forward",
-    "key": "key.keyboard.w"
-  },
-  {
-    "comment": "key.fullscreen",
-    "translation": "Toggle Fullscreen",
-    "key": "key.keyboard.f11"
-  },
-  {
-    "comment": "key.hide_icons",
-    "translation": "Hide Voice Chat Icons",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "key.hotbar.1",
-    "translation": "Hotbar Slot 1",
-    "key": "key.keyboard.1"
-  },
-  {
-    "comment": "key.hotbar.2",
-    "translation": "Hotbar Slot 2",
-    "key": "key.keyboard.2"
-  },
-  {
-    "comment": "key.hotbar.3",
-    "translation": "Hotbar Slot 3",
-    "key": "key.keyboard.3"
-  },
-  {
-    "comment": "key.hotbar.4",
-    "translation": "Hotbar Slot 4",
-    "key": "key.keyboard.4"
-  },
-  {
-    "comment": "key.hotbar.5",
-    "translation": "Hotbar Slot 5",
-    "key": "key.keyboard.5"
-  },
-  {
-    "comment": "key.hotbar.6",
-    "translation": "Hotbar Slot 6",
-    "key": "key.keyboard.6"
-  },
-  {
-    "comment": "key.hotbar.7",
-    "translation": "Hotbar Slot 7",
-    "key": "key.keyboard.7"
-  },
-  {
-    "comment": "key.hotbar.8",
-    "translation": "Hotbar Slot 8",
-    "key": "key.keyboard.8"
-  },
-  {
-    "comment": "key.hotbar.9",
-    "translation": "Hotbar Slot 9",
-    "key": "key.keyboard.9"
-  },
-  {
-    "comment": "key.inventory",
-    "translation": "Open/Close Inventory",
-    "key": "key.keyboard.e"
-  },
-  {
-    "comment": "key.jump",
-    "translation": "Jump",
-    "key": "key.keyboard.space"
-  },
-  {
-    "comment": "key.left",
-    "translation": "Strafe Left",
-    "key": "key.keyboard.a"
-  },
-  {
-    "comment": "key.loadToolbarActivator",
-    "translation": "Load Hotbar Activator",
-    "key": "key.keyboard.x"
-  },
-  {
-    "comment": "key.modmenu.open_menu",
-    "translation": "Open Mod Menu",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "key.mute_microphone",
-    "translation": "Mute Microphone",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "key.pickItem",
-    "translation": "Pick Block",
-    "key": "key.mouse.middle"
-  },
-  {
-    "comment": "key.playerlist",
-    "translation": "List Players",
-    "key": "key.keyboard.tab"
-  },
-  {
-    "comment": "key.push_to_talk",
-    "translation": "Push to Talk",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "key.quickActions",
-    "translation": "Quick Actions",
-    "key": "key.keyboard.g"
-  },
-  {
-    "comment": "key.right",
-    "translation": "Strafe Right",
-    "key": "key.keyboard.d"
-  },
-  {
-    "comment": "key.saveToolbarActivator",
-    "translation": "Save Hotbar Activator",
-    "key": "key.keyboard.c"
-  },
-  {
-    "comment": "key.scattered_shards.collection",
-    "translation": "View Shard Collection",
-    "key": "key.keyboard.j"
-  },
-  {
-    "comment": "key.screenshot",
-    "translation": "Take Screenshot",
-    "key": "key.keyboard.f2"
-  },
-  {
-    "comment": "key.smoothCamera",
-    "translation": "Toggle Cinematic Camera",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "key.sneak",
-    "translation": "Sneak",
-    "key": "key.keyboard.left.shift"
-  },
-  {
-    "comment": "key.socialInteractions",
-    "translation": "Social Interactions Screen",
-    "key": "key.keyboard.p"
-  },
-  {
-    "comment": "key.spectatorOutlines",
-    "translation": "Highlight Players (Spectators)",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "key.sprint",
-    "translation": "Sprint",
-    "key": "key.keyboard.left.control"
-  },
-  {
-    "comment": "key.swapOffhand",
-    "translation": "Swap Item With Off Hand",
-    "key": "key.keyboard.f"
-  },
-  {
-    "comment": "key.togglePerspective",
-    "translation": "Toggle Perspective",
-    "key": "key.keyboard.f5"
-  },
-  {
-    "comment": "key.use",
-    "translation": "Use Item/Place Block",
-    "key": "key.mouse.right"
-  },
-  {
-    "comment": "key.voice_chat",
-    "translation": "Voice Chat Menu",
-    "key": "key.keyboard.v"
-  },
-  {
-    "comment": "key.voice_chat_adjust_volumes",
-    "translation": "Adjust Volumes",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "key.voice_chat_group",
-    "translation": "Group Management",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "key.voice_chat_settings",
-    "translation": "Voice Chat Settings",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "key.voice_chat_toggle_recording",
-    "translation": "Toggle Recording",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "key.waila.config",
-    "translation": "Open Config",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "key.waila.show_overlay",
-    "translation": "Show Overlay",
-    "key": "key.keyboard.left.alt"
-  },
-  {
-    "comment": "key.waila.show_recipe_input",
-    "translation": "Show Recipe Usage",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "key.waila.show_recipe_output",
-    "translation": "Show Recipe",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "key.waila.toggle_liquid",
-    "translation": "Toggle Liquid",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "key.whisper",
-    "translation": "Whisper",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "key.worldeditcui.chunk",
-    "translation": "Toggle Chunk Border",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "key.worldeditcui.clear",
-    "translation": "Clear WorldEdit selection",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "key.worldeditcui.toggle",
-    "translation": "Toggle CUI visibility",
-    "key": "key.keyboard.unknown"
-  },
-  {
-    "comment": "options.narrator_hotkey",
-    "translation": "Toggle Narrator (+Ctrl)",
-    "key": "key.keyboard.unknown"
-  }
+	{
+		"comment": "area_lib.key.toggle_areas",
+		"translation": "area_lib.key.toggle_areas",
+		"key": "key.keyboard.unknown"
+	},
+	{
+		"comment": "key.advancements",
+		"translation": "Advancements",
+		"key": "key.keyboard.l"
+	},
+	{
+		"comment": "key.attack",
+		"translation": "Attack/Destroy",
+		"key": "key.mouse.left"
+	},
+	{
+		"comment": "key.back",
+		"translation": "Walk Backward",
+		"key": "key.keyboard.s"
+	},
+	{
+		"comment": "key.ballotbox.open",
+		"translation": "key.ballotbox.open",
+		"key": "key.keyboard.apostrophe"
+	},
+	{
+		"comment": "key.chat",
+		"translation": "Open Chat",
+		"key": "key.keyboard.t"
+	},
+	{
+		"comment": "key.command",
+		"translation": "Open Command",
+		"key": "key.keyboard.slash"
+	},
+	{
+		"comment": "key.disable_voice_chat",
+		"translation": "key.disable_voice_chat",
+		"key": "key.keyboard.unknown"
+	},
+	{
+		"comment": "key.drop",
+		"translation": "Drop Selected Item",
+		"key": "key.keyboard.q"
+	},
+	{
+		"comment": "key.forward",
+		"translation": "Walk Forward",
+		"key": "key.keyboard.w"
+	},
+	{
+		"comment": "key.fullscreen",
+		"translation": "Toggle Fullscreen",
+		"key": "key.keyboard.f11"
+	},
+	{
+		"comment": "key.hero-statue.cycle_render_type",
+		"translation": "key.hero-statue.cycle_render_type",
+		"key": "key.keyboard.unknown"
+	},
+	{
+		"comment": "key.hero-statue.open_config",
+		"translation": "key.hero-statue.open_config",
+		"key": "key.keyboard.home"
+	},
+	{
+		"comment": "key.hero-statue.toggle_eye_overlay",
+		"translation": "key.hero-statue.toggle_eye_overlay",
+		"key": "key.keyboard.unknown"
+	},
+	{
+		"comment": "key.hero-statue.toggle_rainbow_mode",
+		"translation": "key.hero-statue.toggle_rainbow_mode",
+		"key": "key.keyboard.unknown"
+	},
+	{
+		"comment": "key.hide_icons",
+		"translation": "key.hide_icons",
+		"key": "key.keyboard.unknown"
+	},
+	{
+		"comment": "key.hoofprint.open",
+		"translation": "key.hoofprint.open",
+		"key": "key.keyboard.m"
+	},
+	{
+		"comment": "key.hotbar.1",
+		"translation": "Hotbar Slot 1",
+		"key": "key.keyboard.1"
+	},
+	{
+		"comment": "key.hotbar.2",
+		"translation": "Hotbar Slot 2",
+		"key": "key.keyboard.2"
+	},
+	{
+		"comment": "key.hotbar.3",
+		"translation": "Hotbar Slot 3",
+		"key": "key.keyboard.3"
+	},
+	{
+		"comment": "key.hotbar.4",
+		"translation": "Hotbar Slot 4",
+		"key": "key.keyboard.4"
+	},
+	{
+		"comment": "key.hotbar.5",
+		"translation": "Hotbar Slot 5",
+		"key": "key.keyboard.5"
+	},
+	{
+		"comment": "key.hotbar.6",
+		"translation": "Hotbar Slot 6",
+		"key": "key.keyboard.6"
+	},
+	{
+		"comment": "key.hotbar.7",
+		"translation": "Hotbar Slot 7",
+		"key": "key.keyboard.7"
+	},
+	{
+		"comment": "key.hotbar.8",
+		"translation": "Hotbar Slot 8",
+		"key": "key.keyboard.8"
+	},
+	{
+		"comment": "key.hotbar.9",
+		"translation": "Hotbar Slot 9",
+		"key": "key.keyboard.9"
+	},
+	{
+		"comment": "key.inventory",
+		"translation": "Open/Close Inventory",
+		"key": "key.keyboard.e"
+	},
+	{
+		"comment": "key.jump",
+		"translation": "Jump",
+		"key": "key.keyboard.space"
+	},
+	{
+		"comment": "key.left",
+		"translation": "Strafe Left",
+		"key": "key.keyboard.a"
+	},
+	{
+		"comment": "key.loadToolbarActivator",
+		"translation": "Load Hotbar Activator",
+		"key": "key.keyboard.x"
+	},
+	{
+		"comment": "key.modmenu.open_menu",
+		"translation": "key.modmenu.open_menu",
+		"key": "key.keyboard.unknown"
+	},
+	{
+		"comment": "key.mute_microphone",
+		"translation": "key.mute_microphone",
+		"key": "key.keyboard.unknown"
+	},
+	{
+		"comment": "key.pickItem",
+		"translation": "Pick Block",
+		"key": "key.mouse.middle"
+	},
+	{
+		"comment": "key.playerlist",
+		"translation": "List Players",
+		"key": "key.keyboard.tab"
+	},
+	{
+		"comment": "key.push_to_talk",
+		"translation": "key.push_to_talk",
+		"key": "key.keyboard.unknown"
+	},
+	{
+		"comment": "key.quickActions",
+		"translation": "Quick Actions",
+		"key": "key.keyboard.g"
+	},
+	{
+		"comment": "key.right",
+		"translation": "Strafe Right",
+		"key": "key.keyboard.d"
+	},
+	{
+		"comment": "key.saveToolbarActivator",
+		"translation": "Save Hotbar Activator",
+		"key": "key.keyboard.c"
+	},
+	{
+		"comment": "key.scattered_shards.collection",
+		"translation": "key.scattered_shards.collection",
+		"key": "key.keyboard.j"
+	},
+	{
+		"comment": "key.screenshot",
+		"translation": "Take Screenshot",
+		"key": "key.keyboard.f2"
+	},
+	{
+		"comment": "key.smoothCamera",
+		"translation": "Toggle Cinematic Camera",
+		"key": "key.keyboard.unknown"
+	},
+	{
+		"comment": "key.sneak",
+		"translation": "Sneak",
+		"key": "key.keyboard.left.shift"
+	},
+	{
+		"comment": "key.socialInteractions",
+		"translation": "Social Interactions Screen",
+		"key": "key.keyboard.p"
+	},
+	{
+		"comment": "key.spectatorOutlines",
+		"translation": "Highlight Players (Spectators)",
+		"key": "key.keyboard.unknown"
+	},
+	{
+		"comment": "key.sprint",
+		"translation": "Sprint",
+		"key": "key.keyboard.left.control"
+	},
+	{
+		"comment": "key.swapOffhand",
+		"translation": "Swap Item With Off Hand",
+		"key": "key.keyboard.f"
+	},
+	{
+		"comment": "key.togglePerspective",
+		"translation": "Toggle Perspective",
+		"key": "key.keyboard.f5"
+	},
+	{
+		"comment": "key.use",
+		"translation": "Use Item/Place Block",
+		"key": "key.mouse.right"
+	},
+	{
+		"comment": "key.voice_chat",
+		"translation": "key.voice_chat",
+		"key": "key.keyboard.v"
+	},
+	{
+		"comment": "key.voice_chat_adjust_volumes",
+		"translation": "key.voice_chat_adjust_volumes",
+		"key": "key.keyboard.unknown"
+	},
+	{
+		"comment": "key.voice_chat_group",
+		"translation": "key.voice_chat_group",
+		"key": "key.keyboard.unknown"
+	},
+	{
+		"comment": "key.voice_chat_settings",
+		"translation": "key.voice_chat_settings",
+		"key": "key.keyboard.unknown"
+	},
+	{
+		"comment": "key.voice_chat_toggle_recording",
+		"translation": "key.voice_chat_toggle_recording",
+		"key": "key.keyboard.unknown"
+	},
+	{
+		"comment": "key.waila.config",
+		"translation": "key.waila.config",
+		"key": "key.keyboard.unknown"
+	},
+	{
+		"comment": "key.waila.show_overlay",
+		"translation": "key.waila.show_overlay",
+		"key": "key.keyboard.left.alt"
+	},
+	{
+		"comment": "key.waila.show_recipe_input",
+		"translation": "key.waila.show_recipe_input",
+		"key": "key.keyboard.unknown"
+	},
+	{
+		"comment": "key.waila.show_recipe_output",
+		"translation": "key.waila.show_recipe_output",
+		"key": "key.keyboard.unknown"
+	},
+	{
+		"comment": "key.waila.toggle_liquid",
+		"translation": "key.waila.toggle_liquid",
+		"key": "key.keyboard.unknown"
+	},
+	{
+		"comment": "key.whisper",
+		"translation": "key.whisper",
+		"key": "key.keyboard.unknown"
+	},
+	{
+		"comment": "key.worldeditcui.chunk",
+		"translation": "key.worldeditcui.chunk",
+		"key": "key.keyboard.unknown"
+	},
+	{
+		"comment": "key.worldeditcui.clear",
+		"translation": "key.worldeditcui.clear",
+		"key": "key.keyboard.unknown"
+	},
+	{
+		"comment": "key.worldeditcui.toggle",
+		"translation": "key.worldeditcui.toggle",
+		"key": "key.keyboard.unknown"
+	},
+	{
+		"comment": "options.narrator_hotkey",
+		"translation": "options.narrator_hotkey",
+		"key": "key.keyboard.unknown"
+	}
 ]
