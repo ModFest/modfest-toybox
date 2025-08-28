@@ -1,20 +1,20 @@
 {
-	"item.scattered_shards.shard_tablet": "Virtual Pet Case",
+	"item.scattered_shards.shard_tablet": "vPet Keyring",
 
-	"key.scattered_shards.collection": "View Virtual Pet Collection",
+	"key.scattered_shards.collection": "View vPet Collection",
 
 	"menu.scattered_shards.collection": "Virtual Pets",
 
-	"toast.scattered_shards.collected": "Virtual Pet Collected!",
+	"toast.scattered_shards.collected": "vPet Collected!",
 
-	"gui.scattered_shards.tablet.tooltip.global_collection": "%s of players have this virtual pet",
+	"gui.scattered_shards.tablet.tooltip.global_collection": "%s of players have this vPet",
 
-	"gui.scattered_shards.tablet.click_on_a_shard": "Click on a Virtual Pet to the left",
+	"gui.scattered_shards.tablet.click_on_a_shard": "Click on a vPet to the left",
 
-	"shard_type.modfest.visitor.description": "First-Generation Virtual Pet",
-	"shard_type.modfest.bonus_1.description": "Step-Counting Virtual Pet",
-	"shard_type.modfest.bonus_2.description": "Color-Screen Virtual Pet",
-	"shard_type.modfest.bonus_3.description": "Internet-Enabled Virtual Pet",
+	"shard_type.modfest.visitor.description": "First-Generation vPet",
+	"shard_type.modfest.bonus_1.description": "Step-Counting vPet",
+	"shard_type.modfest.bonus_2.description": "Color-Screen vPet",
+	"shard_type.modfest.bonus_3.description": "Internet-Enabled vPet",
 
 	"shard_pack.cantilever.name": "Cantilever"
 }
