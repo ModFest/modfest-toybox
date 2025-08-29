@@ -3,11 +3,11 @@
 # if the id does not refer to a submission
 
 # loading client classes on server
-dronebox# DroneControllerItem
+#dronebox# DroneControllerItem
 #action-mobs# ActionMobBlock
 
 # needs sandboxing
-dronebox
+#dronebox
 
 # placed rune crashes clients
 # intentional crash meme
