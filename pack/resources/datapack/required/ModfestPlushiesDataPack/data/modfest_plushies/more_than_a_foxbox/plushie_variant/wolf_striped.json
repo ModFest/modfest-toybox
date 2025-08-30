@@ -1,0 +1,9 @@
+{
+	"mob_sounds": "entity.wolf_cute.ambient",
+	"poses": {
+		"sit": "modfest_plushies:more_than_a_foxbox/wolf_striped/sit",
+		"stand": "modfest_plushies:more_than_a_foxbox/wolf_striped/stand",
+		"lay": "modfest_plushies:more_than_a_foxbox/wolf_striped/lay",
+		"box": "modfest_plushies:more_than_a_foxbox/wolf_striped/box"
+	}
+}

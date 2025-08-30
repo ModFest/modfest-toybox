@@ -27,6 +27,6 @@
         // The background color of buttons. Please ensure this has enough contrast with the button text!
         "_unsup_button": ".primary",
         // The color of text in buttons
-        "_unsup_button_text": "#000000"
+        "_unsup_button_text": "#FFFFFF"
     }
 }
