@@ -1,0 +1,18 @@
+{
+  "renderDistance": 64,
+  "renderEntities": false,
+  "renderEntitiesAmount": 20,
+  "fullbright": false,
+  "fov": 70,
+  "biomeBlend": 1,
+  "renderThreadCount": 4,
+  "spawnCommands": [
+    "demobox open not-enough-minecraft:demo -3 22 -10 not-enough-minecraft:world_setup not-enough-minecraft:player_setup",
+    "shard award ${controller} not-enough-minecraft:modfest_bonus_1"
+  ],
+  "allowPlacing": true,
+  "allowBreaking": true,
+  "allowItemUsage": true,
+  "allowDropping": false,
+  "allowPicking": true
+}
