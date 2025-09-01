@@ -26,11 +26,11 @@
 		"files": {
 			"mods/be-a-doll.pw.toml": {
 				"download": {
-					"hash": "585aa8fcda04d6662e8eefd530d9a59701c86fcbf20ee6422646f41ef05e7880f30fa1837fafe54567c2716e26bffa23a9e50293004640dc2ee9d0af9add0c01",
+					"hash": "8d999923cb63950ad3d4bdf4a1b2293cde54fbc2ad94889f120140cf72d31e5e76250b50be831af894d9b79be75364b184c6995df9c01c9cb70c2a1ca72db5cd",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/MAd0Z2MD/versions/Hbghpztl/be-a-doll-1.0.2%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/MAd0Z2MD/versions/e4sKcs5G/be-a-doll-1.0.3%2Bfabric-1.21.8.jar"
 				},
-				"filename": "be-a-doll-1.0.2+fabric-1.21.8.jar",
+				"filename": "be-a-doll-1.0.3+fabric-1.21.8.jar",
 				"name": "Would you be a doll?",
 				"side": "both"
 			},
@@ -45,7 +45,7 @@
 				"side": "both"
 			}
 		},
-		"key": "1bc5eb3a2120fccc4d5bde169d6521a57cb9483e9faf3bfdd5cdf80636d203b2"
+		"key": "ac171bbf3f1d6c5314d24d047b5440593f59e17d2d2e002ef61d70861b4729c2"
 	},
 	"bloub4mc": {
 		"checks": {
@@ -68,7 +68,7 @@
 	},
 	"blowing-bubbles": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": false
 		},
 		"files": {
@@ -204,7 +204,7 @@
 	},
 	"citsabmob": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": true
 		},
 		"files": {
@@ -432,16 +432,16 @@
 		"files": {
 			"mods/dronebox.pw.toml": {
 				"download": {
-					"hash": "c1575e7eaf1789ad30f87132eb42d181acd913546d8d7d0069a9724b01e1c4c4e6be99962b5bf2d40ebdc117239d63d6b3bd3641de5666c9d11e72319c8bfbe7",
+					"hash": "b8cfb29e270882f88f64018559614f38184d6215c3509d279467c264c7ce553b38bf5f38da4faf06ae35c03fc43856f66c508fffaae88bc3e49ffb81afd36e18",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/aQJwuluL/versions/cj59E50y/dronebox-1.1.2%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/aQJwuluL/versions/EmUMaxoW/dronebox-1.1.3%2Bfabric-1.21.8.jar"
 				},
-				"filename": "dronebox-1.1.2+fabric-1.21.8.jar",
+				"filename": "dronebox-1.1.3+fabric-1.21.8.jar",
 				"name": "Dronebox",
 				"side": "both"
 			}
 		},
-		"key": "10ab325480f0b15ae413065ac2acd217cddb1c4ca2991247b701630f7f53ac4b"
+		"key": "507d16de1bad13cd6c4cb8b3d36905e1fab9e355dfed0627ea2f9ca54eb36102"
 	},
 	"evl-toys": {
 		"checks": {
@@ -657,7 +657,7 @@
 	},
 	"hattened": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": true
 		},
 		"files": {
@@ -905,16 +905,16 @@
 			},
 			"mods/maglev-minecarts.pw.toml": {
 				"download": {
-					"hash": "1b9c6a158b174eb5357c2bb37c075f70ddb6368099a667c9991a475be0fde9b09eadd310037dd58917f8c67d2f7e7b9753cbacf50373abad68b7b3d3126ad524",
+					"hash": "388d28601852f11fb1dab5393c2f8158ddf1515c9f5ba5077484a8c8400c4217cec7e9fb529822a6fde01badbf30438764031015a5ee50a7ab3a2983abe3381f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/YrqkULLr/versions/QgO2yorq/maglev-0.3.3%2Bmodfest.jar"
+					"url": "https://cdn.modrinth.com/data/YrqkULLr/versions/k4gnvnnt/maglev-0.3.4%2Bmodfest.jar"
 				},
-				"filename": "maglev-0.3.3+modfest.jar",
+				"filename": "maglev-0.3.4+modfest.jar",
 				"name": "Maglev",
 				"side": "both"
 			}
 		},
-		"key": "6e1a257f0a6bec386bcaa7d6f2f275500be8e90680283b9d548524f0d1b028ee"
+		"key": "6725058faa3ca5c9d6395f455ba0b995942d3a7fee3a75d6f3f535f30004ea8f"
 	},
 	"manikin": {
 		"checks": {
@@ -934,16 +934,16 @@
 			},
 			"mods/manikin.pw.toml": {
 				"download": {
-					"hash": "622e27541e25e19b258bb4101de7ef3a1bb83a44985ae61626df689323f44837caad45f3d5bd4bbca5f2ee8c18b82c39970a4337ce20b4150322a9d827ab1379",
+					"hash": "7ba78774cfe02d7aaa0b5a1d79b5447ffbc9ff3d09102e6ba784c6510411b26c85722cb68e04ac07178044bc569fdeef98ee0f280956e6ac90aa8dbe1711ae84",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/XZ5wno5a/versions/Yld4W2xw/mannequin-0.1.5-beta.jar"
+					"url": "https://cdn.modrinth.com/data/XZ5wno5a/versions/V5kg9YUo/mannequin-0.1.6-beta.jar"
 				},
-				"filename": "mannequin-0.1.5-beta.jar",
+				"filename": "mannequin-0.1.6-beta.jar",
 				"name": "Mannequin",
 				"side": "both"
 			}
 		},
-		"key": "4de9955260313de5ec3ac13730ff833ca3d4132d956d65079d1b3cecfc617ac6"
+		"key": "8e80c1fe4a30dd0a6eab8ca7cd9f4e6826a6024bb4ac6193dbcf545d19fd54fc"
 	},
 	"mica-runes": {
 		"checks": {
@@ -1089,16 +1089,16 @@
 			},
 			"mods/not-a-toy.pw.toml": {
 				"download": {
-					"hash": "6b4139446632c9cbe16c7a5642ce1a4d9f571aa22cb38fb5df299f61cd5d7f5d9096230b50cf569302c7810565398dd85997d39d9714388dd30799a6645d5b86",
+					"hash": "a197241fbd6e18a403b3911c3297b68a018f520787e659e5c89e25a7865ed5d0b169b3172ea1254cf387d437027d4014ba7a71f981197cc01b5285d7c938a5b4",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/yMwktkWM/versions/9uxIb0vA/notatoy-1.2.2.jar"
+					"url": "https://cdn.modrinth.com/data/yMwktkWM/versions/anM30CGq/notatoy-1.2.3.jar"
 				},
-				"filename": "notatoy-1.2.2.jar",
+				"filename": "notatoy-1.2.3.jar",
 				"name": "Not A Toy",
 				"side": "both"
 			}
 		},
-		"key": "8762855db2f3a835c4f7e3996babfadca66c5f4c33f4876f02672e74290a2f0f"
+		"key": "cee750d047ec12cc70430a626b4e0e509e4fe208f166ac9704af97e4007443dc"
 	},
 	"notenoughminecraft": {
 		"checks": {
@@ -1180,7 +1180,7 @@
 	},
 	"paintbrush-mod": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": false
 		},
 		"files": {
@@ -1336,20 +1336,20 @@
 				},
 				"filename": "polymer-bundled-0.13.11+1.21.8.jar",
 				"name": "Polymer",
-				"side": "server"
+				"side": "both"
 			},
 			"mods/simply-slingshot.pw.toml": {
 				"download": {
-					"hash": "abbde8a713b35ea1c97ed9d6320955bf519cbb40d400098d90120c05607f13e4695f92da3eda08faeb08bc1edeef0d62f61a27331134577c5615eef56d2e0818",
+					"hash": "bc2607fb64477a9181c0bdfbabf660452482581187cd4787e060f53c585119197f71dd84767cee3c5e6bb693408d6a65ac406a2279d84f15fc84ea667f9bc714",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/msOhd0jl/versions/BwW0oaf8/simply-slingshot-0.1.2%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/msOhd0jl/versions/US3lUsXS/simply-slingshot-0.1.3%2B1.21.8.jar"
 				},
-				"filename": "simply-slingshot-0.1.2+1.21.8.jar",
+				"filename": "simply-slingshot-0.1.3+1.21.8.jar",
 				"name": "Simply Slingshot",
 				"side": "server"
 			}
 		},
-		"key": "74bdf3c2e52d6220c9857de0360651651a0a7bb57d61a7877c0dde17ece08b4e"
+		"key": "d18727779c71b2160b5451515362cbdb6aa9fe3c0d3dd32af7d8857d1915b83c"
 	},
 	"slotcars": {
 		"checks": {
@@ -1721,7 +1721,7 @@
 	},
 	"wabbajack-staff": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": true
 		},
 		"files": {
@@ -1766,16 +1766,16 @@
 			},
 			"mods/windup-music-box.pw.toml": {
 				"download": {
-					"hash": "4b02f6965772e2ebf6f5bd07b20448a2c6e558c44be78bc0747834570765cea72e0cc1b92e16166068fda0b64bba4fb6371917d44089bd43d3e4df09827e1588",
+					"hash": "68de44bbc4f013f166e39cc9ceb7b5175faf189ecb65c9b2118496f61dbe653190d328e789de73722a2d2d1c1af89e44667454f5b148dde7b6de835a4ca4cd34",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/1UK6vyVH/versions/aRn50ZPL/windup_music_box-0.3.0.jar"
+					"url": "https://cdn.modrinth.com/data/1UK6vyVH/versions/LXAWvbzy/windup_music_box-0.3.1.jar"
 				},
-				"filename": "windup_music_box-0.3.0.jar",
+				"filename": "windup_music_box-0.3.1.jar",
 				"name": "Wind-up Music Box",
 				"side": "both"
 			}
 		},
-		"key": "17c2d3e41bf85493df01cf2310e718f8c89b0ccea395ae747f122bad53355271"
+		"key": "44686a9e91c699690374403d48cbb7780a6af1e79ef06e7cd9c0061e6d29db49"
 	},
 	"yamaxanadu": {
 		"checks": {
