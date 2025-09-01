@@ -432,16 +432,16 @@
 		"files": {
 			"mods/dronebox.pw.toml": {
 				"download": {
-					"hash": "b3d51313886e47c9df5d5c942e5e4aba26161940d9c061e41d751b8c2c215f533550d3edd91ef9d7ae91fef1789531abfca1702897bfa80ada9e7f3ee4bcc79f",
+					"hash": "c1575e7eaf1789ad30f87132eb42d181acd913546d8d7d0069a9724b01e1c4c4e6be99962b5bf2d40ebdc117239d63d6b3bd3641de5666c9d11e72319c8bfbe7",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/aQJwuluL/versions/Dc96VvzE/dronebox-1.1.1%2Bfabric-1.21.8-sources.jar"
+					"url": "https://cdn.modrinth.com/data/aQJwuluL/versions/cj59E50y/dronebox-1.1.2%2Bfabric-1.21.8.jar"
 				},
-				"filename": "dronebox-1.1.1+fabric-1.21.8-sources.jar",
+				"filename": "dronebox-1.1.2+fabric-1.21.8.jar",
 				"name": "Dronebox",
 				"side": "both"
 			}
 		},
-		"key": "783c8330fdaf493d57d113fbba639b7d02bfe65636223342efcaf4a6de360152"
+		"key": "10ab325480f0b15ae413065ac2acd217cddb1c4ca2991247b701630f7f53ac4b"
 	},
 	"evl-toys": {
 		"checks": {
@@ -1475,16 +1475,16 @@
 		"files": {
 			"mods/surpuncher.pw.toml": {
 				"download": {
-					"hash": "ebb09a0889a222364b78c5db5733c4ea4cf20f76f1523a532161187c6286779d755bb969f3015726a9442f925eab4b7c1cd012b249b82e266951f1b4efa6305c",
+					"hash": "c82094cf8a6c3c012c95b87e18e3279008182bd63fe803aaf42c8d5c4360766f620e377a71e4c5122b8e2987ec7b51fd6bd7d77ece1c0c0fe95a522cda709503",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AlvIXaBX/versions/rb98BojG/surpuncher-1.0.6%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/AlvIXaBX/versions/b5cntEqK/surpuncher-1.0.7%2B1.21.8.jar"
 				},
-				"filename": "surpuncher-1.0.6+1.21.8.jar",
+				"filename": "surpuncher-1.0.7+1.21.8.jar",
 				"name": "Surpuncher",
 				"side": "both"
 			}
 		},
-		"key": "6beaac2d7101f575b5bf8798250744918884bb10f307c51e038bb9ea10d40f11"
+		"key": "5b82424234307fb0c40e7730503590bcdcf595d5c9b53840164cce32162363f3"
 	},
 	"sword-of-legend": {
 		"checks": {
