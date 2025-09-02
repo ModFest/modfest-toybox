@@ -7,16 +7,16 @@
 		"files": {
 			"mods/action-mobs.pw.toml": {
 				"download": {
-					"hash": "22472f623dad66461082045d706dc8ca6b44bc474c635f1209b5ce3dde6ab1afd48de4bf4d14275ddf5253533f8aec54c6ad288bcb7c49acc113423787795ae3",
+					"hash": "c87604ace55ca11b15ec36d84c098748ebb9391704a87ba3109ead62b6213e4926627b325ce5df23d7a51c0417d176ebc9520d5102844e5f6f4914700d1b84b3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/7UAkGlvL/action_mobs-0.3.14.jar"
+					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/e7uoem7X/action_mobs-0.3.16.jar"
 				},
-				"filename": "action_mobs-0.3.14.jar",
+				"filename": "action_mobs-0.3.16.jar",
 				"name": "Action Mobs",
 				"side": "both"
 			}
 		},
-		"key": "14c7b449a3b7ee5f65598d9996b9c2e7a6c480faadbf6671f1b59f5361568b63"
+		"key": "d813f220d9c616025b9f623ae86a51013abca35c63e2cb5c68090e7577cdb921"
 	},
 	"be-a-doll": {
 		"checks": {
@@ -1021,16 +1021,16 @@
 			},
 			"mods/more_than_a_foxbox.pw.toml": {
 				"download": {
-					"hash": "8eb8023d859bf834692fa2f73b2b92938805869b32e6c71ecb554f763effa79fa346bd2bdafff23edf4e53eaf47b848a73fbd62b21977c6b1fb307bc59a6ddfa",
+					"hash": "caf1b597eb9883f21f07c682f7b4ae31dd883bb3a0d8284ced6ee61f136fe1806ca29f45aa5c63ec47df9c63caa39a8e2006d44bc01773ee8f0e9be22489f4aa",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/OQ7P6zcP/versions/2nab7VGt/more_than_a_foxbox-1.0.4%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/OQ7P6zcP/versions/fgjyBWLF/more_than_a_foxbox-1.0.6%2Bfabric-1.21.8.jar"
 				},
-				"filename": "more_than_a_foxbox-1.0.4+fabric-1.21.8.jar",
+				"filename": "more_than_a_foxbox-1.0.6+fabric-1.21.8.jar",
 				"name": "More Than A Foxbox",
 				"side": "both"
 			}
 		},
-		"key": "7aeb60011bdff5ec7231194d217f912c7581bd542b1983e1fb381b11a5f92d98"
+		"key": "ecbee37d43390d426e09ca08db1566092140bb6ef25e879650d547f1196e16e7"
 	},
 	"newinbox": {
 		"checks": {
