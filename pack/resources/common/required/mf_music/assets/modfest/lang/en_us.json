@@ -1,6 +1,8 @@
 {
 	"modfest.music.antiquity": "cordova - Antiquity",
 	"modfest.music.stereo.antiquity": "cordova - Antiquity",
+	"occmy:sfx.et8": "cordova - et8",
+	"modfest.music.tilapia": "cordova - Tilapia",
 	"modfest.music.hand_me_down": "Nulb - Hand Me Down",
 	"modfest.music.stereo.hand_me_down": "Nulb - Hand Me Down",
 	"modfest.music.how_i_dance": "Nulb - And This Is How I Dance",
@@ -24,7 +26,6 @@
 	"modfest.music.stereo.childhood_promises": "Aethyus - Childhood Promises",
 	"modfest.music.the_six_sides_of_the_dice": "Aethyus - The Six Sides of the Dice",
 	"modfest.music.stereo.the_six_sides_of_the_dice": "Aethyus - The Six Sides of the Dice",
-
 
 	"lore.modfest.music.antiquity": "Hint #1 - HINT FOR #2",
 	"lore.modfest.music.hand_me_down": "Hint #X - PLACEHOLDER HINT",

@@ -417,6 +417,10 @@ file = "mods/surveyor.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/world-comment.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldborderfix.pw.toml"
 metafile = true
 

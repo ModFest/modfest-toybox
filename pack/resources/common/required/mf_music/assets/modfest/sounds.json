@@ -115,6 +115,14 @@
 			}
 		]
 	},
+	"music.tilapia": {
+		"sounds": [
+			{
+				"name": "modfest:music/tilapia",
+				"stream": true
+			}
+		]
+	},
 	"music.stereo.antiquity": {
 		"sounds": [
 			{

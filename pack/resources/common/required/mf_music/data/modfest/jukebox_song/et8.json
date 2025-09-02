@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "occmy:sfx.et8"
+	},
+	"length_in_seconds": 24.0,
+	"sound_event": {
+		"sound_id": "occmy:sfx.et8"
+	}
+}
