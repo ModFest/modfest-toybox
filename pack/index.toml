@@ -276,6 +276,10 @@ file = "mods/crunchy-crunchy-advancements.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/default-components.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/defaulted-hotkeys.pw.toml"
 metafile = true
 
@@ -805,6 +809,12 @@ file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushie
 
 [[files]]
 file = "resources/datapack/required/ModfestPlushiesDataPack/pack.mcmeta"
+
+[[files]]
+file = "resources/datapack/required/dc_diy_die/data/minecraft/default_components/all.json"
+
+[[files]]
+file = "resources/datapack/required/dc_diy_die/pack.mcmeta"
 
 [[files]]
 file = "resources/datapack/required/mf_ballotbox/data/ballotbox/ballot/categories.json"

@@ -1,0 +1,13 @@
+name = "Default Components"
+filename = "default-components-1.0.1+1.21.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ReIHZWEq/versions/nDpdD2zL/default-components-1.0.1%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "1923f028b1f4351c708f348aa8190595794394d900ef3239f2cc0c6d356171ad12ef76da30be21af83309c9d68d45a78a8ac1d28f4c4b5197f056d92e5aba261"
+
+[update]
+[update.modrinth]
+mod-id = "ReIHZWEq"
+version = "nDpdD2zL"

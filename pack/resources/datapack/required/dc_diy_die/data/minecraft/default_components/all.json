@@ -1,0 +1,7 @@
+{
+  "target": "diy-die:*",
+  "add": {
+    "area_tools:can_use_in_area" : { "area_id" : "diy-die:dice_testing"},
+    "minecraft:can_place_on" : { "blocks" : "minecraft:dark_oak_planks"}
+  }
+}
