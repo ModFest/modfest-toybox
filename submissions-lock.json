@@ -7,16 +7,16 @@
 		"files": {
 			"mods/action-mobs.pw.toml": {
 				"download": {
-					"hash": "8df8eb22d9ff261b9fef07d1c090793aa7fe1c18518a38b002756316ae98303346bc332aa24e344546b8bdfc026a3dbe0b71eec4e13a47883ce5f47b398d35f0",
+					"hash": "f39cb633a1e7956cac01b9dfcf426df8222130a4c1ce7250b98bcf3b482882946eea892aad7556f251196248bc4c599ac657119a158c106adbf4cc7eb070fba1",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/QMBGkdE0/action_mobs-0.3.18.jar"
+					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/J1qHBb8M/action_mobs-0.3.19.jar"
 				},
-				"filename": "action_mobs-0.3.18.jar",
+				"filename": "action_mobs-0.3.19.jar",
 				"name": "Action Mobs",
 				"side": "both"
 			}
 		},
-		"key": "2451a9f5fa8f0bec5bb193c7a09ff8a85c2834e0c77647be6ab1997625b1cf23"
+		"key": "841436768459b9c157e9d6b0befd123116b1a671ebcdfdaca3c9461240826044"
 	},
 	"be-a-doll": {
 		"checks": {
@@ -26,11 +26,11 @@
 		"files": {
 			"mods/be-a-doll.pw.toml": {
 				"download": {
-					"hash": "c0355763e88b4ded226f0dc3338e9e6454db463ad59a95d106178172abffa3bbe9a4cca3ccfd00a6893af75b1f1a499d17b9ec69a3525fdcc0bb48ed386a7de0",
+					"hash": "4a0dffbe3b356d9f025ae7f45a5e204556697be5c27b746e422f94fb98e63ab53a4caf8607c41b527733bf542a2b9bbe973d1d730945e3e5d6b71cc6ca90894f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/MAd0Z2MD/versions/HVd9nX0x/be-a-doll-1.0.6%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/MAd0Z2MD/versions/q1LbMWtw/be-a-doll-1.0.7%2Bfabric-1.21.8.jar"
 				},
-				"filename": "be-a-doll-1.0.6+fabric-1.21.8.jar",
+				"filename": "be-a-doll-1.0.7+fabric-1.21.8.jar",
 				"name": "Would you be a doll?",
 				"side": "both"
 			},
@@ -45,7 +45,7 @@
 				"side": "both"
 			}
 		},
-		"key": "990d97f451e83a4b1a2e446f5860e26cbfe551a47aafc6e9341e2a74b9b60223"
+		"key": "e389516f5d92f1ec81e8b2c5c49bb1aebda37ce81a2b7e4bbc65ba1fb1f7a600"
 	},
 	"bloub4mc": {
 		"checks": {
@@ -470,16 +470,16 @@
 		"files": {
 			"mods/eye_of_dreams.pw.toml": {
 				"download": {
-					"hash": "fdeb61989f7e4705e79046c0320245e4bf723350bce2329a61c9ec780618be93a154c00f3af15f25b6accaeb45f33760f6fd3f49ffc5a3d200621605d7de1a9c",
+					"hash": "43da55ceec90520f4f908f7d2d68257c5d1cab8b7d3520f3b70e727dc7841c2c93067059fb80692f4529de31fa1bd556a8cae568542b4af0ce3c673069a3a5c8",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/4hpv2SxP/versions/Dhr6IsJQ/eye_of_dreams-1.0.5%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/4hpv2SxP/versions/BZjY5ZAH/eye_of_dreams-1.0.6%2B1.21.8.jar"
 				},
-				"filename": "eye_of_dreams-1.0.5+1.21.8.jar",
+				"filename": "eye_of_dreams-1.0.6+1.21.8.jar",
 				"name": "Eye of Dreams",
 				"side": "both"
 			}
 		},
-		"key": "2128ccd6a24a740afecfad63ead57ede21315e1c372ef50d2401e1a50543d67c"
+		"key": "6fcb76fe78b0634213f7a91585c6688c844b6e2455726e42ff273ed08559d652"
 	},
 	"five-guys-burgers-and-fries": {
 		"checks": {
@@ -1021,16 +1021,16 @@
 			},
 			"mods/more_than_a_foxbox.pw.toml": {
 				"download": {
-					"hash": "caf1b597eb9883f21f07c682f7b4ae31dd883bb3a0d8284ced6ee61f136fe1806ca29f45aa5c63ec47df9c63caa39a8e2006d44bc01773ee8f0e9be22489f4aa",
+					"hash": "73d147e9d540e4778a2c43aac3ccb722c32e365b0480516894a380c61d705898f8e072a0bb96580c94ca56cf4b25d2f35b85a0822c3d28387c990376f2b1a592",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/OQ7P6zcP/versions/fgjyBWLF/more_than_a_foxbox-1.0.6%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/OQ7P6zcP/versions/eU1JptqC/more_than_a_foxbox-1.0.7%2Bfabric-1.21.8.jar"
 				},
-				"filename": "more_than_a_foxbox-1.0.6+fabric-1.21.8.jar",
+				"filename": "more_than_a_foxbox-1.0.7+fabric-1.21.8.jar",
 				"name": "More Than A Foxbox",
 				"side": "both"
 			}
 		},
-		"key": "ecbee37d43390d426e09ca08db1566092140bb6ef25e879650d547f1196e16e7"
+		"key": "3ecf37b962da44495c5b443ec339658d39361a7ef2147cc929694a2c8ddfd9d5"
 	},
 	"newinbox": {
 		"checks": {
@@ -1167,16 +1167,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "4cbb546fef240aacfa1ba3056c57e0a41fcf30333a9d1e266d38d57f7858618ec5ad98a18eb55a51b14df795c7c19d5fb6d3ff522123512eb6504b6dd0ab2685",
+					"hash": "61831adc84786aed5e2e9b4cc25cedcbd3b0b295f212626c19e0b71afb642144545c45a892ff5588e0330dc11e38804f4dd4f1a4d91588bbb504f63332eabc14",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/Zl34LMYF/occmy-G_.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/TIMk8EDs/occmy-H_.jar"
 				},
-				"filename": "occmy-G_.jar",
+				"filename": "occmy-H_.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "74189ba6d3dde99fe55dcc6f29ea45b41febb4679d21b006eb9f80e0bd23aeed"
+		"key": "4560909787946b65bf6c9e4ab25b5ebd7f9141b50680ee1960caa93b0576678e"
 	},
 	"paintbrush-mod": {
 		"checks": {

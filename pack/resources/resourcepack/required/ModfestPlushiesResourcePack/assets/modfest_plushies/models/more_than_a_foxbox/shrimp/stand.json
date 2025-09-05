@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "modfest_plushies:item/plushie/shrimp"
+		"1": "modfest_plushies:item/plushie/shrimp",
+		"particle": "modfest_plushies:item/plushie/shrimp"
 	},
 	"elements": [
 		{
