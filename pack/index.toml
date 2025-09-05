@@ -240,6 +240,10 @@ file = "mods/area_lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/arealib-adventure.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/armorstandeditor.pw.toml"
 metafile = true
 

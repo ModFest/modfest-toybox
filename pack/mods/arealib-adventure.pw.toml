@@ -1,0 +1,15 @@
+name = "AreaLib-Adventure"
+filename = "arealib_adventure-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Oliver-makes-code/AreaLib-Adventure/releases/download/v1.0.1/arealib_adventure-1.0.1.jar"
+hash-format = "sha256"
+hash = "5e7c9ddb13d5fb0d73cdb44e4e96e04b91e8e40468dff0d8d36671a28208c386"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "Oliver-makes-code/AreaLib-Adventure"
+tag = "v1.0.1"
