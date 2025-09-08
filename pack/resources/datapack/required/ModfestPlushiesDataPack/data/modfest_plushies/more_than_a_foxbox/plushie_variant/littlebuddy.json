@@ -1,0 +1,9 @@
+{
+	"mob_sounds": "entity.salmon.flop",
+	"poses": {
+		"sit": "modfest_plushies:more_than_a_foxbox/littlebuddy/sit",
+		"stand": "modfest_plushies:more_than_a_foxbox/littlebuddy/stand",
+		"lay": "modfest_plushies:more_than_a_foxbox/littlebuddy/lay",
+		"box": "modfest_plushies:more_than_a_foxbox/littlebuddy/box"
+	}
+}
