@@ -1,0 +1,9 @@
+{
+	"mob_sounds": "entity.allay.ambient_with_item",
+	"poses": {
+		"sit": "modfest_plushies:more_than_a_foxbox/plantie/sit",
+		"stand": "modfest_plushies:more_than_a_foxbox/plantie/stand",
+		"lay": "modfest_plushies:more_than_a_foxbox/plantie/lay",
+		"box": "modfest_plushies:more_than_a_foxbox/plantie/box"
+	}
+}
